@@ -1,0 +1,103 @@
+ ...and update research implementation\357\200\242" |   103 [32m+[m
+ exploratory.py                                     |     7 [32m+[m[31m-[m
+ link.txt                                           |     6 [32m+[m
+ study_run1/answer_features_and_audit.csv           | 12222 [32m++++++++++++++++++[m
+ study_run1/eligibility.csv                         |    47 [32m+[m
+ study_run1/exploratory/latest_run.json             |     5 [32m+[m
+ .../RQ1_F1.csv                                     |    47 [32m+[m
+ .../RQ1_F1.pdf                                     |   Bin [31m0[m -> [32m28989[m bytes
+ .../RQ1_F1.png                                     |   Bin [31m0[m -> [32m314165[m bytes
+ .../RQ1_F2.csv                                     |    47 [32m+[m
+ .../RQ1_F2.pdf                                     |   Bin [31m0[m -> [32m14488[m bytes
+ .../RQ1_F2.png                                     |   Bin [31m0[m -> [32m94291[m bytes
+ .../RQ1_T1.csv                                     |     5 [32m+[m
+ .../RQ1_T1.pdf                                     |   Bin [31m0[m -> [32m25352[m bytes
+ .../RQ1_T2.csv                                     |   152 [32m+[m
+ .../RQ1_T2.pdf                                     |   Bin [31m0[m -> [32m48430[m bytes
+ .../RQ2_F1.csv                                     |     5 [32m+[m
+ .../RQ2_F1.pdf                                     |   Bin [31m0[m -> [32m15240[m bytes
+ .../RQ2_F1.png                                     |   Bin [31m0[m -> [32m76012[m bytes
+ .../RQ2_F2.csv                                     |     5 [32m+[m
+ .../RQ2_F2.pdf                                     |   Bin [31m0[m -> [32m15053[m bytes
+ .../RQ2_F2.png                                     |   Bin [31m0[m -> [32m63108[m bytes
+ .../RQ2_T1.csv                                     |    56 [32m+[m
+ .../RQ2_T1.pdf                                     |   Bin [31m0[m -> [32m27467[m bytes
+ .../RQ2_T2.csv                                     |   137 [32m+[m
+ .../RQ2_T2.pdf                                     |   Bin [31m0[m -> [32m29775[m bytes
+ .../RQ3_F1.csv                                     |    47 [32m+[m
+ .../RQ3_F1.pdf                                     |   Bin [31m0[m -> [32m18367[m bytes
+ .../RQ3_F1.png                                     |   Bin [31m0[m -> [32m107361[m bytes
+ .../RQ3_F2.csv                                     |    59 [32m+[m
+ .../RQ3_F2.pdf                                     |   Bin [31m0[m -> [32m13984[m bytes
+ .../RQ3_F2.png                                     |   Bin [31m0[m -> [32m97910[m bytes
+ .../RQ3_T1.csv                                     |    29 [32m+[m
+ .../RQ3_T1.pdf                                     |   Bin [31m0[m -> [32m27131[m bytes
+ .../RQ3_T2.csv                                     |    13 [32m+[m
+ .../RQ3_T2.pdf                                     |   Bin [31m0[m -> [32m39365[m bytes
+ .../RQ4_F1.csv                                     |    47 [32m+[m
+ .../RQ4_F1.pdf                                     |   Bin [31m0[m -> [32m13760[m bytes
+ .../RQ4_F1.png                                     |   Bin [31m0[m -> [32m85307[m bytes
+ .../RQ4_F2.csv                                     |    47 [32m+[m
+ .../RQ4_F2.pdf                                     |   Bin [31m0[m -> [32m24765[m bytes
+ .../RQ4_F2.png                                     |   Bin [31m0[m -> [32m354924[m bytes
+ .../RQ4_T1.csv                                     |    13 [32m+[m
+ .../RQ4_T1.pdf                                     |   Bin [31m0[m -> [32m28641[m bytes
+ .../RQ4_T2.csv                                     |    62 [32m+[m
+ .../RQ4_T2.pdf                                     |   Bin [31m0[m -> [32m33655[m bytes
+ .../all_report_scores.csv                          |    59 [32m+[m
+ .../answer_features_and_audit.csv                  | 12222 [32m++++++++++++++++++[m
+ .../checksums.json                                 |    61 [32m+[m
+ .../clean_question_answers.csv                     | 12222 [32m++++++++++++++++++[m
+ .../cleaning_summary.json                          |     8 [32m+[m
+ .../coder_A_TEMPLATE.csv                           |  1492 [32m+++[m
+ .../coder_B_TEMPLATE.csv                           |  1492 [32m+++[m
+ .../duplicate_row_audit.csv                        |   309 [32m+[m
+ .../figure_table_captions.md                       |    31 [32m+[m
+ .../human_validation_TEMPLATE.csv                  |  1492 [32m+++[m
+ .../input_profile.json                             |     8 [32m+[m
+ .../latest_report_scores.csv                       |    47 [32m+[m
+ .../lexicon_and_stage_rules.json                   |    52 [32m+[m
+ .../organisation_eligibility_TEMPLATE.csv          |    47 [32m+[m
+ .../original_rule_report_baseline.csv              |    59 [32m+[m
+ .../report_inventory.csv                           |    59 [32m+[m
+ .../response_availability_by_report.csv            |    59 [32m+[m
+ .../run_manifest.json                              |   117 [32m+[m
+ .../source_row_provenance.csv                      | 12477 [32m+++++++++++++++++++[m
+ .../validation_sampling_design.csv                 |   229 [32m+[m
+ study_run1/lexicon_and_stage_rules.json            |    52 [32m+[m
+ study_run1/report_inventory.csv                    |    59 [32m+[m
+ study_run1/source_row_provenance.csv               | 12477 [32m+++++++++++++++++++[m
+ study_run1/study.json                              |     7 [32m+[m
+ study_run3/adjudicated_sample.csv                  |  1104 [32m++[m
+ study_run3/answer_features_and_audit.csv           | 12222 [32m++++++++++++++++++[m
+ study_run3/chain_units.csv                         |     1 [32m+[m
+ study_run3/coder_A.csv                             |  1104 [32m++[m
+ study_run3/coder_B.csv                             |  1104 [32m++[m
+ study_run3/coverage.csv                            |   213 [32m+[m
+ study_run3/eligibility.csv                         |    47 [32m+[m
+ study_run3/eligible_answers.csv                    | 11044 [32m++++++++++++++++[m
+ study_run3/eligible_reports.csv                    |    54 [32m+[m
+ study_run3/exploratory/latest_run.json             |     5 [32m+[m
+ .../RQ1_F1.csv                                     |    47 [32m+[m
+ .../RQ1_F1.pdf                                     |   Bin [31m0[m -> [32m28989[m bytes
+ .../RQ1_F1.png                                     |   Bin [31m0[m -> [32m314165[m bytes
+ .../RQ1_F2.csv                                     |    47 [32m+[m
+ .../RQ1_F2.pdf                                     |   Bin [31m0[m -> [32m14488[m bytes
+ .../RQ1_F2.png                                     |   Bin [31m0[m -> [32m94291[m bytes
+ .../RQ1_T1.csv                                     |     5 [32m+[m
+ .../RQ1_T1.pdf                                     |   Bin [31m0[m -> [32m25352[m bytes
+ .../RQ1_T2.csv                                     |   152 [32m+[m
+ .../RQ1_T2.pdf                                     |   Bin [31m0[m -> [32m48430[m bytes
+ .../RQ2_F1.csv                                     |     5 [32m+[m
+ .../RQ2_F1.pdf                                     |   Bin [31m0[m -> [32m15240[m bytes
+ .../RQ2_F1.png                                     |   Bin [31m0[m -> [32m76012[m bytes
+ .../RQ2_F2.csv                                     |     5 [32m+[m
+ .../RQ2_F2.pdf                                     |   Bin [31m0[m -> [32m15053[m bytes
+ .../RQ2_F2.png                                     |   Bin [31m0[m -> [32m63108[m bytes
+ .../RQ2_T1.csv                                     |    56 [32m+[m
+ .../RQ2_T1.pdf                                     |   Bin [31m0[m -> [32m27467[m bytes
+ .../RQ2_T2.csv                                     |   137 [32m+[m
+ .../RQ2_T2.pdf                                     |   Bin [31m0[m -> [32m29775[m bytes
+ .../RQ3_F1.csv                                     |    47 [32m+[m
+ .../RQ3_F1.pdf                                     |   Bin [31m0[m -> [32m18367[m bytes
+ .../RQ3_F1.png                                     |   Bin 

@@ -1,0 +1,258 @@
+Input: /workspace/scratch/661abaf0a75f/aligned_update/LogicFlow_Aligned/transparency-reports-exports.csv
+Output: /workspace/scratch/661abaf0a75f/aligned_update/LogicFlow_Aligned/study_aligned/exploratory/oecd_csv_results_20261109T131901663105Z
+                 metric                                              value
+0                  rows                                               3925
+1   organisation_labels                                                 48
+2             countries                                                 11
+3         blank_answers                                                676
+4  exact_duplicate_rows                                                248
+5                sha256  39186b7d9c3e93ee6c038815b3a7f5ab1210f9f8689501...
+                                   metric  value
+0                                raw_rows   3925
+1     normalised_exact_duplicates_removed    248
+2                 question_answer_records   3643
+3                          report_records     58
+4                     organisation_labels     46
+5  records_with_multiple_distinct_answers      6
+Substantive governance answers: 3043 | Blank question answers: 418
+                                         Organization  ... all_four_sentence
+0                                    KDDI Corporation  ...          0.000000
+1                                         KYP.ai GmbH  ...          0.000000
+2                                              OpenAI  ...          0.000000
+3                                            Karavela  ...          0.000000
+4                                      Felaris Global  ...          0.000000
+6                                       Hitachi, Ltd.  ...          1.388889
+7                                             EXCELYA  ...          3.636364
+8                                             Infosys  ...          0.000000
+9   West Lake research & education service, a divi...  ...          0.000000
+11                                    NEC Corporation  ...          0.000000
+12                                  Malt Community SA  ...          1.492537
+13                                             Google  ...          0.000000
+14                                Rakuten Group, Inc.  ...          0.000000
+15                                    By My Side Labs  ...          0.000000
+16                                     SoftBank Corp.  ...          0.000000
+19                         Fayston Preparatory School  ...          0.000000
+20                                               ai21  ...          0.000000
+21                                          NTT, Inc.  ...          0.000000
+22                                             Cohere  ...          0.000000
+23                                        League Inc.  ...          0.000000
+24                                          ABEJA.inc  ...          0.000000
+26                                              MGOIT  ...          0.000000
+27                                             Criteo  ...          0.000000
+28                                EuroAIGuard Conseil  ...          0.000000
+29                                         Salesforce  ...          0.000000
+31                                          Milestone  ...          0.000000
+32                                          Jus Mundi  ...          0.000000
+33                                               RATP  ...          0.000000
+35                                           ARTEFACT  ...          0.000000
+36                                 Preferred Networks  ...          0.000000
+37                                Data Privacy and AI  ...          0.000000
+38                                      TELUS Digital  ...          0.000000
+39                                   OpenAI Opco, LLC  ...          0.000000
+40                                           Ubie株式会社  ...          0.000000
+41                                            Fujitsu  ...          0.000000
+42                                              ZAION  ...          0.000000
+43                                          Microsoft  ...          0.000000
+44                                           OpenText  ...          0.000000
+46                                       Hitachi, Ltd  ...          0.000000
+47                                      Anthropic PBC  ...          0.000000
+48                                          Anthropic  ...          0.000000
+49                                    Infosys Limited  ...          2.564103
+52                                           OneTreck  ...          0.000000
+54                                             Amazon  ...          0.000000
+55                                              TELUS  ...          0.000000
+57                                             Odysai  ...          3.225806
+
+[46 rows x 7 columns]
+**RQ1_F1 — Latest-report component signal rates; equal answer weighting within report**
+Figure(700x1104)
+**RQ1_F2 — Proximity sensitivity; orange bars show medians across latest reports**
+Figure(700x400)
+**RQ1_T1 — Component signal prevalence; report-weighted rates and answer-level counts**
+  component  n_organisation_labels  ...  answers_with_signal  substantive_answers
+0     actor                     46  ...                  645                 2579
+1   process                     46  ...                 1013                 2579
+2  evidence                     46  ...                  449                 2579
+3  response                     46  ...                  309                 2579
+
+[4 rows x 6 columns]
+**RQ1_T2 — Traceable candidate examples for manual checking; dictionary matches are not final codes**
+           Organization  ...                                 candidate_sentence
+2658    Infosys Limited  ...  Infosys follows a structured vulnerability man...
+1822            EXCELYA  ...  The organization records identified issues and...
+143              Odysai  ...  Our information security management system is ...
+1024  Malt Community SA  ...  It reviews the relevant risk classification, i...
+103              Odysai  ...  Operate and monitor: logging of access and ope...
+1820            EXCELYA  ...             Review of incident management records.
+2170      Hitachi, Ltd.  ...  In alignment with the Guiding Principles for t...
+172           Microsoft  ...                                                   
+195           Microsoft  ...                                                   
+181           Microsoft  ...                                                   
+989   Malt Community SA  ...                                                   
+3418          Milestone  ...                                                   
+
+[12 rows x 11 columns]
+**RQ2_F1 — Lifecycle signal rates; equal latest-report weighting among substantive mapped answers**
+Figure(700x300)
+**RQ2_F2 — Availability versus candidate rate; denominators are mapped questions and substantive answers respectively**
+Figure(700x400)
+**RQ2_T1 — Missing dictionary signals by stage; multi-stage answers recur across stages**
+         stages  ...    percent
+3    deployment  ...  30.275229
+2    deployment  ...  24.311927
+5    deployment  ...  15.137615
+6    deployment  ...   7.339450
+7    deployment  ...   5.963303
+8    deployment  ...   5.504587
+12   deployment  ...   4.128440
+1    deployment  ...   2.293578
+0    deployment  ...   1.834862
+4    deployment  ...   1.376147
+10   deployment  ...   0.917431
+9    deployment  ...   0.458716
+11   deployment  ...   0.458716
+16       design  ...  45.147679
+15       design  ...  17.299578
+17       design  ...  14.345992
+18       design  ...   6.751055
+21       design  ...   5.063291
+25       design  ...   3.797468
+23       design  ...   3.375527
+14       design  ...   0.843882
+19       design  ...   0.843882
+20       design  ...   0.843882
+24       design  ...   0.843882
+13       design  ...   0.421941
+22       design  ...   0.421941
+28   monitoring  ...  31.578947
+32   monitoring  ...  15.789474
+30   monitoring  ...  14.210526
+33   monitoring  ...   8.421053
+35   monitoring  ...   7.894737
+34   monitoring  ...   6.315789
+39   monitoring  ...   4.736842
+26   monitoring  ...   4.210526
+27   monitoring  ...   3.157895
+37   monitoring  ...   1.578947
+29   monitoring  ...   0.526316
+31   monitoring  ...   0.526316
+36   monitoring  ...   0.526316
+38   monitoring  ...   0.526316
+44  remediation  ...  20.187793
+47  remediation  ...  16.901408
+42  remediation  ...  14.553991
+41  remediation  ...  13.145540
+48  remediation  ...   9.389671
+40  remediation  ...   7.042254
+49  remediation  ...   5.633803
+46  remediation  ...   2.816901
+54  remediation  ...   2.816901
+50  remediation  ...   2.347418
+45  remediation  ...   1.877934
+43  remediation  ...   0.938967
+51  remediation  ...   0.938967
+52  remediation  ...   0.938967
+53  remediation  ...   0.469484
+
+[55 rows x 5 columns]
+**RQ2_T2 — Complete question-title mapping audit for human review; titles are never scored as answers**
+                                              question  ...                mapped_stages
+0    Across the AI system lifecycle, what steps doe...  ...  cross-cutting or unresolved
+1    Any further comments and for implementation do...  ...  cross-cutting or unresolved
+2    Any further comments and implementation docume...  ...  cross-cutting or unresolved
+3    Are any national AI safety / security institut...  ...  cross-cutting or unresolved
+4    Are quantitative and/or qualitative risk evalu...  ...  cross-cutting or unresolved
+..                                                 ...  ...                          ...
+120  What research or investment is your organizati...  ...  cross-cutting or unresolved
+121  What research or investment is your organizati...  ...  cross-cutting or unresolved
+122  What security measures are used in testing AI ...  ...  cross-cutting or unresolved
+123  What steps does your organization take to addr...  ...                  remediation
+124  When does testing take place in secure environ...  ...  cross-cutting or unresolved
+
+[125 rows x 4 columns]
+**RQ3_F1 — Country comparison in latest reports; observations are organisation labels**
+Figure(800x400)
+**RQ3_F2 — All-report period comparison; repeated organisations and template changes prevent causal interpretation**
+Figure(800x400)
+**RQ3_T1 — Country-by-period sample composition; no representation of all companies is implied**
+          Country Reporting Period  n_reports  n_organisation_labels
+0          Canada          Q2 2025          2                      2
+1          Canada          Q2 2026          2                      2
+2          Canada          Q3 2026          2                      2
+3         Denmark          Q4 2025          1                      1
+4          France          Q2 2026          5                      5
+5          France          Q3 2026          4                      4
+6          France          Q4 2026          1                      1
+7         Germany          Q2 2025          2                      2
+8         Germany          Q3 2026          1                      1
+9           India          Q3 2026          1                      1
+10          India          Q4 2025          1                      1
+11         Israel          Q1 2025          1                      1
+12          Japan          Q1 2025          1                      1
+13          Japan          Q2 2025          6                      6
+14          Japan          Q2 2026          4                      4
+15          Japan          Q3 2026          3                      3
+16          Japan          Q4 2025          2                      2
+17     Luxembourg          Q3 2026          1                      1
+18        Romania          Q1 2025          1                      1
+19        Romania          Q2 2026          1                      1
+20    South Korea          Q2 2025          1                      1
+21    South Korea          Q2 2026          1                      1
+22    South Korea          Q4 2026          1                      1
+23  United States          Q1 2025          1                      1
+24  United States          Q2 2025          5                      5
+25  United States          Q2 2026          3                      3
+26  United States          Q3 2026          3                      3
+27  United States          Q4 2025          1                      1
+**RQ3_T2 — Matched exact-label earliest/latest reports on identical substantive questions; changed wording is excluded**
+                  Organization  ... same_questionnaire_fingerprint
+0          Data Privacy and AI  ...                          False
+1   Fayston Preparatory School  ...                          False
+2                      Fujitsu  ...                          False
+3                       Google  ...                          False
+4             KDDI Corporation  ...                          False
+5                        MGOIT  ...                          False
+6                    Microsoft  ...                          False
+7              NEC Corporation  ...                          False
+8                    NTT, Inc.  ...                          False
+9          Rakuten Group, Inc.  ...                          False
+10                  Salesforce  ...                          False
+11                       TELUS  ...                          False
+
+[12 rows x 10 columns]
+**RQ4_F1 — Association between principle mentions and answer-level accountability co-occurrence candidates**
+Figure(600x500)
+**RQ4_F2 — Paired score differences; constructs and denominators differ**
+Figure(800x1058)
+**RQ4_T1 — Descriptive high/low discordance at prespecified thresholds; no validated governance standard**
+    threshold_percent principles  ... denominator    percent
+0                  25        low  ...          46   0.000000
+1                  25        low  ...          46   0.000000
+2                  25       high  ...          46  97.826087
+3                  25       high  ...          46   2.173913
+4                  50        low  ...          46   2.173913
+5                  50        low  ...          46   0.000000
+6                  50       high  ...          46  97.826087
+7                  50       high  ...          46   0.000000
+8                  75        low  ...          46   6.521739
+9                  75        low  ...          46   0.000000
+10                 75       high  ...          46  93.478261
+11                 75       high  ...          46   0.000000
+
+[12 rows x 6 columns]
+**RQ4_T2 — Largest absolute-score-discordance cases with source responses; requires qualitative interpretation**
+      Organization  ... candidate_sentence
+0         ARTEFACT  ...                   
+1           Amazon  ...                   
+2   Felaris Global  ...                   
+3          Fujitsu  ...                   
+4  NEC Corporation  ...                   
+5           OpenAI  ...                   
+
+[6 rows x 9 columns]
+Pilot organisations: 11 | Held-out organisations: 35
+Review sample rows: 228 ; freeze rules after pilot and evaluate only held-out labels.
+Human-confirmed validity not measured: no gold labels supplied. All sixteen outputs remain exploratory.
+Created 16 RQ-linked outputs: /workspace/scratch/661abaf0a75f/aligned_update/LogicFlow_Aligned/study_aligned/exploratory/OECD_CSV_Actual_Results_20261109T131901663105Z.zip
+/workspace/scratch/661abaf0a75f/aligned_update/LogicFlow_Aligned/study_aligned/exploratory/OECD_CSV_Actual_Results_20261109T131901663105Z.zip
+NEXT: complete eligibility.csv, then run freeze

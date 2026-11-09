@@ -1,0 +1,15 @@
+https://chatgpt.com/share/6ae9098e-d850-83ec-a279-5f89bc32cbd9
+chatgpt link
+
+py -3 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe implementation.py
+
+python -m pip install -r requirements.txt
+python implementation.py prepare
+
+python exploratory.py
+python implementation.py prepare --workspace study_run1
+python implementation.py freeze --workspace study_run1
+python implementation.py analyse --workspace study_run1
+python implementation.py evaluate --workspace study_run1

@@ -8,3 +8,5 @@ outputs/
 study/
 study_aligned/
 *.zip
+
+study_run*/

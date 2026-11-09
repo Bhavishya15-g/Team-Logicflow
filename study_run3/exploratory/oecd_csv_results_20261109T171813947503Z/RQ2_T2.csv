@@ -1,0 +1,137 @@
+question,n_reports,n_substantive,mapped_stages
+"Across the AI system lifecycle, what steps does your organization take to manage risks and vulnerabilities? Please indicate which specific practices, tools or metrics your organization uses at each lifecycle stage. You may refer to tools or metrics present in the OECD.AI Catalogue of Tools and Metrics or suggest additions. Respondents may complete only the lifecycle stages relevant to their organisation's role. Stages that do not apply may be left blank.",33,0,cross-cutting or unresolved
+Any further comments and for implementation documentation,25,9,cross-cutting or unresolved
+Any further comments and implementation documentation.,33,12,cross-cutting or unresolved
+Are any national AI safety / security institutes of the AISI network involved?,9,7,cross-cutting or unresolved
+"Are quantitative and/or qualitative risk evaluation metrics used and if yes, with what caveats? Does your organization make vulnerability and incident reporting mechanisms accessible to a diverse set of stakeholders? Does your organization have incentive programs for the responsible disclosure of risks, incidents and vulnerabilities?",25,25,cross-cutting or unresolved
+Are relevant staff trained on your organization's governance policies and risk management practices?,33,32,cross-cutting or unresolved
+"Are relevant staff trained on your organization's governance policies and risk management practices? If so, how?",25,25,cross-cutting or unresolved
+Are steps taken to address reported incidents documented and maintained internally?,33,32,remediation
+"Are steps taken to address reported incidents documented and maintained internally? If so, how?",25,25,remediation
+"Both before and after deployment, what practices does your organization use to identify and evaluate vulnerabilities, incidents, emerging risks and misuse throughout the AI system lifecycle?",33,33,deployment|monitoring
+"Build, integrate and interpret model",33,0,design
+Collect and process data,33,0,design
+Deploy,33,0,deployment
+"Describe how evaluation results are shared and with which stakeholders (e.g. other organizations, governments, civil society and academia, etc). You may also indicate whether non-technical or plain-language summaries are provided for broader audiences.",33,29,cross-cutting or unresolved
+"Describe how provenance mechanisms are implemented and which standards or tools are used, and any collaborations or investments to improve content authentication (e.g., C2PA credentials, joint R&D projects, open-source initiatives, standard-setting groups). You may also indicate whether these mechanisms are tested for robustness against removal, tampering, or circumvention.",14,12,cross-cutting or unresolved
+"Describe how your organization conducts testing (e.g., red-teaming) to evaluate the model's/system's fitness for moving beyond the development stage?",25,25,design
+Describe key privacy measures and data-protection standards applied.,33,33,cross-cutting or unresolved
+Do you develop or deploy agentic AI systems (systems that can autonomously plan/act or use tools)?⁴,33,33,deployment
+Does your organization advance research and investment in the following areas?,33,33,cross-cutting or unresolved
+Does your organization collaborate on or invest in research to advance content authentication and provenance?,14,13,cross-cutting or unresolved
+Does your organization collaborate with civil society and community groups to identify and develop AI solutions in support of the UN Sustainable Development Goals and to address the world's greatest challenges? Please provide examples.,25,25,cross-cutting or unresolved
+"Does your organization collaborate with relevant stakeholders across sectors to assess and adopt risk mitigation measures to address risks that could have broad and potentially cascading socio-economic impacts? Please indicate which stakeholders you collaborate with, and whether collaboration is on a standing basis (Always-on), activated based on context (Ad hoc/as relevant), or there is no current collaboration.",33,33,cross-cutting or unresolved
+"Does your organization communicate its risk management policies and practices with users and/or the public? If so, how?",25,25,cross-cutting or unresolved
+"Does your organization contribute to the development of and/or use international technical standards or best practices for the identification, assessment, and evaluation of risks?",25,25,cross-cutting or unresolved
+Does your organization demonstrate transparency related to advanced AI systems through any other methods?,58,53,cross-cutting or unresolved
+"Does your organization disclose privacy policies addressing the use of personal data, user prompts, and/or the outputs of advanced AI systems?",25,25,cross-cutting or unresolved
+"Does your organization have mechanisms to receive and/or share reports of risks, incidents or vulnerabilities by/with third parties?",33,30,cross-cutting or unresolved
+"Does your organization participate in projects, collaborations, and investments in research that support the advancement of AI safety, security, and trustworthiness, as well as risk evaluation and mitigation tools?",25,25,cross-cutting or unresolved
+Does your organization prioritize AI projects for responsible stewardship of trustworthy and human-centric AI in support of the UN Sustainable Development Goals? Please provide examples.,25,25,cross-cutting or unresolved
+"Does your organization provide information about the sources of data used for the training of advanced AI systems, as appropriate, including information related to the sourcing of data annotation and enrichment?",25,25,design
+"Does your organization publish clear and understandable reports and/or technical documentation related to the capabilities, limitations, and domains of appropriate and inappropriate use of advanced AI systems?
+i. How often are such reports usually updated?
+ii. How are new significant releases reflected in such reports?
+iii. Which of the following information is included in your organization's publicly available documentation: details and results of the evaluations conducted for potential safety, security, and societal risks including risks to the enjoyment of human rights; assessments of the model's or system's effects and risks to safety and society (such as those related to harmful bias, discrimination, threats to protection of privacy or personal data, fairness); results of red-teaming or other testing conducted to evaluate the model's/system's fitness for moving beyond the development stage; capacities of a model/system and significant limitations in performance with implications for appropriate use domains; other technical documentation and instructions for use if relevant.",25,25,design|deployment
+"Does your organization publish public privacy policies addressing the use of personal data, user prompts, and/or the outputs of advanced AI systems?",33,31,cross-cutting or unresolved
+"Does your organization publish public reports and/or technical documentation related to the capabilities, limitations, and domains of appropriate and inappropriate use of advanced AI systems? Are these clear and understandable by non-technical audiences?",33,28,cross-cutting or unresolved
+"Does your organization publish statistical insights derived from anonymised, aggregated usage data to advance understanding of AI adoption and its economic impacts in areas including occupations and tasks by region, sector and country? To this end, do you contribute to international cooperation efforts?",33,29,cross-cutting or unresolved
+"Does your organization pursue AI projects that aim to deliver societal or public benefits, including through partnerships with civil society and community groups?",33,33,cross-cutting or unresolved
+Does your organization pursue research or investment related to socio-economic or environmental considerations in the development and deployment of AI?,33,27,deployment
+"Does your organization share information, as appropriate, with relevant other stakeholders regarding advanced AI system incidents? If so, how? Does your organization share and report incident-related information publicly?",25,25,cross-cutting or unresolved
+Does your organization share research and best practices on addressing or managing risk?,33,33,cross-cutting or unresolved
+"Does your organization support any digital literacy, education or training initiatives to improve user awareness and/or help people understand the nature, capabilities and limitations of advanced AI systems?",33,32,design
+"Does your organization support any digital literacy, education or training initiatives to improve user awareness and/or help people understand the nature, capabilities, limitations and impacts of advanced AI systems? Please provide examples.",25,25,design
+"Does your organization use content provenance detection, labeling or watermarking mechanisms that enable users to identify content generated by advanced AI systems?",33,24,cross-cutting or unresolved
+"Does your organization use content provenance detection, labeling or watermarking mechanisms that enable users to identify content generated by advanced AI systems? If yes, how? Does your organization use international technical standards or best practices when developing or implementing content provenance?",25,25,cross-cutting or unresolved
+"Does your organization use incident reports, including reports shared by other organizations, to help identify risks?",25,25,monitoring
+Does your organization use international technical standards or best practices for AI risk management and governance policies?,58,58,cross-cutting or unresolved
+"Does your organization use or contribute to the development of international technical standards, best practices or tools for the identification, assessment, and evaluation of risks?",33,33,cross-cutting or unresolved
+"Following deployment, how do you use incident reports — including those shared by other organizations — to identify emerging issues, update risk assessments, and trigger corrective actions.",33,33,deployment|monitoring|remediation
+"Governance, policy and assessments",33,33,cross-cutting or unresolved
+How do testing measures inform actions to address identified risks?,25,25,cross-cutting or unresolved
+How do you protect privacy and prevent your systems from disclosing confidential or sensitive data across the AI lifecycle?,33,33,cross-cutting or unresolved
+"How does your organization address vulnerabilities, incidents, emerging risks?",25,24,monitoring|remediation
+"How does your organization advance research and investment related to the following: security, safety, bias and disinformation, fairness, explainability and interpretability, transparency, robustness, and/or trustworthiness of advanced AI systems?",25,24,cross-cutting or unresolved
+How does your organization assess cybersecurity risks and implement policies to enhance the cybersecurity of advanced AI systems across the AI system lifecycle? Respondents may complete the checkbox subsections in 11.A–11.D or describe their overall approach under 11.E.,33,0,cross-cutting or unresolved
+How does your organization collaborate on and invest in research to advance the state of content authentication and provenance?,25,23,cross-cutting or unresolved
+"How does your organization collaborate with relevant stakeholders across sectors to assess and adopt risk mitigation measures to address risks, in particular systemic risks?",25,25,cross-cutting or unresolved
+"How does your organization define and/or classify different types of risks related to AI, such as unreasonable risks?",25,25,cross-cutting or unresolved
+How does your organization define and/or classify different types of risks related to AI?¹,33,33,cross-cutting or unresolved
+"How does your organization define thresholds at which severe risks, unless adequately mitigated, may be considered ""unreasonable""? Please describe the framework(s) most relevant to your organization's role and context. If your organisation does not use formal thresholds, you may describe instead the policies, decision criteria, or governance processes you apply when assessing severe AI risks. You may also describe:
+• Specific examples of contexts in which your models or systems could, in your assessment, pose unreasonable or intolerable risk;
+• How mitigations are graduated by capability or propensity level;
+• How your organisation considers the specificities of different AI technologies, such as generative AI and agentic AI, including any specific risk assessment or governance mechanisms applied to agentic AI capabilities.",33,33,cross-cutting or unresolved
+"How does your organization implement AI-specific information security practices pertaining to operational and cyber/physical security?
+i. How does your organization assess cybersecurity risks and implement policies to enhance the cybersecurity of advanced AI systems?
+ii. How does your organization protect against security risks the most valuable IP and trade secrets, for example by limiting access to proprietary and unreleased model weights? What measures are in place to ensure the storage of and work with model weights, algorithms, servers, datasets, or other relevant elements are managed in an appropriately secure environment, with limited access controls in place?
+iii. What is your organization's vulnerability management process? Does your organization take actions to address identified risks and vulnerabilities, including in collaboration with other stakeholders?
+iv. How often are security measures reviewed?
+v. Does your organization have an insider threat detection program?",25,25,deployment|remediation
+How does your organization monitor the interactions of AI agents under your control with other agents / assess risk from multiple agents interacting?,9,6,monitoring
+"How does your organization promote data quality and mitigate risks of harmful bias, including in training and data collection processes?",25,25,design
+"How does your organization protect intellectual property, including copyright-protected content?",58,25,cross-cutting or unresolved
+How does your organization protect privacy? How does your organization guard against systems divulging confidential or sensitive data?,25,25,cross-cutting or unresolved
+"How does your organization provide information about the sources of data used for the training of advanced AI systems, as appropriate, including information related to the sourcing of data annotation and enrichment?",33,20,design
+"How does your organization share information with a diverse set of stakeholders (other organizations, governments, civil society and academia, etc.) regarding the outcome of evaluations of risks and impacts related to an advanced AI system?",58,49,cross-cutting or unresolved
+"How does your organization share relevant information about vulnerabilities, incidents, emerging risks, and misuse with others?",25,25,monitoring
+How does your organization share relevant information as appropriate?,23,22,cross-cutting or unresolved
+How does your organization share research and best practices on addressing or managing risk?,25,25,cross-cutting or unresolved
+How has AI risk management been embedded in your organization governance framework? When and under what circumstances are policies updated?,25,25,cross-cutting or unresolved
+How has AI risk management been embedded in your organization's governance framework?,33,33,cross-cutting or unresolved
+"If any of the fields above are selected, please indicate your organization size:",33,0,cross-cutting or unresolved
+"If contributes or uses, please select all that apply:",32,31,cross-cutting or unresolved
+"If yes, describe additional method(s), including where relevant transparency measures related to AI agents",21,19,cross-cutting or unresolved
+"If yes, describe any digital literacy or training initiatives your organization supports (e.g., user education, public AI-education programs, school or university partnerships, community workshops). You may also indicate whether these efforts include or prioritise underserved or underrepresented communities.",29,28,design
+"If yes, describe how incident records are kept and used for follow-up (e.g., incident logs, root-cause analysis reports, internal tracking systems). You may indicate whether and how you define escalation thresholds for when incidents must be surfaced to senior leadership or external parties.",31,31,remediation
+"If yes, describe how research or good practices are shared (e.g., publications, conferences, collaborations with other sectors).",26,26,cross-cutting or unresolved
+"If yes, describe training methods (e.g., onboarding modules, regular sessions, and confidential channels to report concerns).",31,31,design
+"If yes, describe which international technical standards or best practices your organization uses.",31,31,cross-cutting or unresolved
+"If yes, does your organization use international technical standards or best practices when developing or implementing content provenance?",14,12,cross-cutting or unresolved
+"If yes, how often are such reports usually updated?",20,19,cross-cutting or unresolved
+"If yes, how?",14,12,cross-cutting or unresolved
+"If yes, please describe key research or investment initiatives in the areas selected above (e.g., dedicated safety teams, funding of research programs, contributions to open-source safety tools, publishing research, partnerships and collaborative research initiatives). You may also indicate whether related outputs are publicly shared, shared with partners or within consortia or not publicly disclosed.",33,29,cross-cutting or unresolved
+"If yes, please indicate which categories of controls your organization applies. Please select all.",28,28,cross-cutting or unresolved
+"If yes, please indicate which stakeholders reporting mechanisms may be accessible to, recognising specifics will depend on the nature of the report and risk level. For each, indicate whether access is on a standing basis (Always), activated based on context (Ad hoc/as relevant), or not currently accessible.",26,25,cross-cutting or unresolved
+"If yes, please indicate which standards or frameworks apply:",31,31,cross-cutting or unresolved
+"If yes, please provide examples of relevant research or investment initiatives for the areas selected above.",27,27,cross-cutting or unresolved
+"If yes, please provide examples, including any collaborations with civil society, community groups, or efforts to address broader societal challenges.",26,23,cross-cutting or unresolved
+"If yes, please provide links or describe the scope of insights published, including where relevant contributions to understanding AI adoption in specific sectors (e.g. public administration, education systems).",11,11,cross-cutting or unresolved
+"If yes, provide links to privacy policies or notices covering personal data, user inputs, and AI-generated outputs.",23,22,cross-cutting or unresolved
+"If yes, which of the following information is included in your organization’s publicly available documentation for any of your AI products?",20,20,cross-cutting or unresolved
+"If your organization has programs to incentivize risk(s) disclosure, incidents and systemic vulnerabilities, please share what type of programs you use?",33,21,cross-cutting or unresolved
+Insider risk protection detections,33,33,cross-cutting or unresolved
+"Is external independent expertise leveraged for the identification, assessment, and evaluation of risks and if yes, how? Does your organization have mechanisms to receive reports of risks, incidents or vulnerabilities by third parties?",25,25,cross-cutting or unresolved
+Operate and monitor,33,0,monitoring
+Plan and design,33,0,design
+"Please briefly describe your organization’s decision-making process for deploying an AI model or system including: who has decision authority; what evidence and criteria are required (e.g., performance, safety/security, robustness, fairness, privacy, compliance, independent external testing, evaluation, validation and verification (TEVV) or assurance); contextual caveats or limitations required in interpreting risk evaluation metric results; what approvals/sign-offs are needed; and what safeguards (e.g., mitigations, monitoring, or phased release) must be in place to move into deployment.",33,33,deployment|monitoring
+"Please describe any measures used to ensure data quality and fairness across the data collection and curation stage (e.g., dataset audits, filtering training data to remove harmful content or personal information, fine-tuning on curated data, use of moderation tools, assessment of limitations to model generalisability).",33,32,design
+"Please describe examples of how your organization collaborates. Examples may include: participating in multi-stakeholder or industry initiatives; partnering with academia, civil society, or the public sector; establishing internal or joint governance structures with external experts or in partnership with other efforts to share knowledge and jointly address risks.",33,32,cross-cutting or unresolved
+"Please describe how AI risk management is integrated into governance structures, including: which roles or bodies have advisory versus decision-making authority; which roles or bodies have final accountability for AI risk-related decisions; and how often policies are reviewed or updated (e.g., following major incidents, regulatory changes, or material updates to systems).",33,33,cross-cutting or unresolved
+"Please describe how your organisation determines when and how reporting mechanisms are made accessible to different stakeholders (e.g. based on legal or regulatory requirements, internal policies, or risk level). Please also provide public URLs or details on how to submit reports. If none, write “Not applicable”",26,25,cross-cutting or unresolved
+"Please describe the main security measures your organization applies and indicate which are specific to particularly sensitive AI assets, where relevant.",33,32,cross-cutting or unresolved
+Please describe what type of information is shared.,23,23,cross-cutting or unresolved
+Please estimate the total staff time and annual expenses associated with conducting compliance activities and include any further comments and implementation documentation (optional).,33,9,cross-cutting or unresolved
+"Please indicate, if relevant, the team or role responsible for overseeing secure testing and whether this responsibility is shared across multiple teams and/or functions.",30,26,cross-cutting or unresolved
+"Please provide a consolidated description of your organisation's approach to risk management across the AI system lifecycle, including how the practices identified above operate together and any cross-cutting governance, review or escalation processes. Please also indicate how often these practices are reviewed and what types of events trigger reviews and updates. Where relevant, please distinguish between different types of AI systems (e.g. generative or agentic AI).",33,33,remediation
+Please provide any further comments and implementation documentation.,33,13,cross-cutting or unresolved
+Please provide links or references showing where this information is made public.,20,17,cross-cutting or unresolved
+Please provide links to any publicly available information.,33,25,cross-cutting or unresolved
+"Please provide public URLs and/or details on your incentive program(s). If none, write “Not applicable.”",21,17,cross-cutting or unresolved
+Protection of sensitive or high value AI assets,33,33,cross-cutting or unresolved
+"Provide any additional details or context on how or when users are informed they are interacting with advanced AI systems (e.g. if such mechanisms are planned, in testing, or applied only to certain products).",33,25,cross-cutting or unresolved
+Responding as (please select all that apply):,33,0,cross-cutting or unresolved
+Safeguards that promote lawful data use and transparency in AI training:,33,29,design
+Safeguards that reduce the risk of dissemination of outputs that may infringe copyright:,33,24,cross-cutting or unresolved
+Technical and operational controls,33,33,cross-cutting or unresolved
+Verify and validate,33,0,design
+"What is your organization's vulnerability management process? Does your organization take actions to address identified risks and vulnerabilities, including in collaboration with other stakeholders?",33,32,remediation
+"What mechanisms, if any, does your organization put in place to allow end-users, where possible and appropriate, to know when they are interacting with an advanced AI system developed by your organization?",33,33,cross-cutting or unresolved
+"What mechanisms, if any, does your organization put in place to allow users, where possible and appropriate, to know when they are interacting with an advanced AI system developed by your organization?",25,24,cross-cutting or unresolved
+"What post-deployment practices does your organization use to monitor and respond to vulnerabilities, incidents, emerging risks and misuse of advanced AI systems?",33,33,deployment|monitoring
+"What practices does your organization use to identify and evaluate risks such as vulnerabilities, incidents, emerging risks and misuse, throughout the AI lifecycle?",25,25,monitoring
+What research or investment is your organization pursuing to maximize socio-economic and environmental benefits from AI? Please provide examples.,25,25,cross-cutting or unresolved
+What research or investment is your organization pursuing to minimize socio-economic and/or environmental risks from AI?,25,24,cross-cutting or unresolved
+What security measures are used in testing AI systems?,33,30,cross-cutting or unresolved
+What steps does your organization take to address risks and vulnerabilities across the AI lifecycle?,25,25,remediation
+"When does testing take place in secure environments, if at all, and if it does, how?",25,25,cross-cutting or unresolved

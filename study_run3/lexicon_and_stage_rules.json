@@ -1,0 +1,58 @@
+{
+  "components": {
+    "actor": [
+      "\\bboard\\b",
+      "\\bcommittee\\b",
+      "\\b(?:chief|risk|compliance|privacy|security) officer\\b",
+      "\\b(?:responsible|accountable) (?:team|role|person|officer)\\b",
+      "\\b(?:governance|security|safety|legal|risk|ethics|compliance) team\\b",
+      "\\boversight\\b",
+      "\\b(?:leadership|management|executive|director)\\b"
+    ],
+    "process": [
+      "\\bassess(?:ment|ments|ing)?\\b",
+      "\\breview(?:s|ed|ing)?\\b",
+      "\\baudit(?:s|ed|ing)?\\b",
+      "\\bevaluat(?:e|es|ed|ion|ions|ing)\\b",
+      "\\btest(?:s|ed|ing)?\\b",
+      "\\bmonitor(?:s|ed|ing)?\\b",
+      "\\bprocedure(?:s)?\\b",
+      "\\bapprov(?:e|es|al|als|ed)\\b"
+    ],
+    "evidence": [
+      "\\b(?:audit|assessment|incident|evaluation|transparency|safety) report(?:s)?\\b",
+      "\\b(?:model|system) card(?:s)?\\b",
+      "\\b(?:incident|audit|decision) log(?:s)?\\b",
+      "\\b(?:risk|incident) register(?:s)?\\b",
+      "\\b(?:documented|documentation|records|certification|assurance)\\b"
+    ],
+    "response": [
+      "\\bremediat(?:e|es|ed|ion|ing)\\b",
+      "\\bescalat(?:e|es|ed|ion|ing)\\b",
+      "\\bcorrective action(?:s)?\\b",
+      "\\bincident (?:response|management|handling)\\b",
+      "\\b(?:redress|rollback|roll back|remedy|complaint handling)\\b",
+      "\\baddress(?:es|ed|ing)? (?:the )?(?:incidents|vulnerabilities|risks)\\b"
+    ]
+  },
+  "principles": {
+    "fairness": "\\bfair(?:ness)?\\b|\\bbias(?:ed)?\\b|\\bnon.discriminat",
+    "privacy": "\\bprivacy\\b|\\bpersonal data\\b|\\bdata protection\\b",
+    "transparency": "\\btransparen\\w*|\\bexplainab\\w*|\\binterpretab\\w*",
+    "safety_security": "\\bsafety\\b|\\bsecurity\\b|\\bcybersecurity\\b",
+    "accountability": "\\baccountab\\w*|\\bresponsibilit\\w*|\\boversight\\b"
+  },
+  "stage_rules": {
+    "design": "plan and design|collect and process data|build, integrate|verify and validate|training|data collection|development stage|before deployment",
+    "deployment": "\\bdeploy(?:ment)?\\b|deploying|release|sign.off",
+    "monitoring": "operate and monitor|following deployment|post.deployment|\\bmonitor\\w*|incident reports|emerging risks",
+    "remediation": "remediat|corrective|escalat|address.*(?:vulnerabilit|incident)|incident.*(?:document|record|maintain)|reported incidents|vulnerability management"
+  },
+  "original_rules": {
+    "responsibility": "\\b(?:accountab\\w*|responsib\\w*|oversight|committee|board|chief\\s+\\w+\\s+officer|designated\\s+owner)\\b",
+    "procedure": "\\b(?:procedure\\w*|workflow\\w*|approval\\w*|risk assessment\\w*|review process\\w*|governance framework\\w*|policy review\\w*)\\b",
+    "assurance": "\\b(?:audit\\w*|independent review\\w*|external evaluation\\w*|verification|validation|certification\\w*|red[- ]team\\w*)\\b",
+    "failure_response": "\\b(?:incident\\w*|remediat\\w*|corrective action\\w*|escalat\\w*|rollback\\w*|redress|complaint\\w*)\\b"
+  },
+  "negation_window_characters": 45
+}

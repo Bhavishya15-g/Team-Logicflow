@@ -1,0 +1,13 @@
+threshold_percent,principles,candidate_rate,n_organisation_labels,denominator,percent
+25,low,low,0,46,0.0
+25,low,high,0,46,0.0
+25,high,low,45,46,97.82608695652173
+25,high,high,1,46,2.1739130434782608
+50,low,low,1,46,2.1739130434782608
+50,low,high,0,46,0.0
+50,high,low,45,46,97.82608695652173
+50,high,high,0,46,0.0
+75,low,low,3,46,6.521739130434782
+75,low,high,0,46,0.0
+75,high,low,43,46,93.47826086956522
+75,high,high,0,46,0.0

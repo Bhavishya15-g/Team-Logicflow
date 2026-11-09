@@ -1,0 +1,117 @@
+{
+  "run_id": "20261109T171813947503Z",
+  "input": "C:\\Users\\bhavi\\Downloads\\Team LogicFlow\\transparency-reports-exports.csv",
+  "input_sha256": "39186b7d9c3e93ee6c038815b3a7f5ab1210f9f8689501b24ac58d439be323ea",
+  "cutoff": "2026-11-02",
+  "versions": {
+    "pandas": "3.1.1",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1"
+  },
+  "python": "3.13.3",
+  "n_latest_reports": 46,
+  "n_all_reports": 58,
+  "outputs": [
+    {
+      "id": "RQ1_F1",
+      "kind": "figure",
+      "caption": "Latest-report component signal rates; equal answer weighting within report",
+      "rows": 46
+    },
+    {
+      "id": "RQ1_F2",
+      "kind": "figure",
+      "caption": "Proximity sensitivity; orange bars show medians across latest reports",
+      "rows": 46
+    },
+    {
+      "id": "RQ1_T1",
+      "kind": "table",
+      "caption": "Component signal prevalence; report-weighted rates and answer-level counts",
+      "rows": 4
+    },
+    {
+      "id": "RQ1_T2",
+      "kind": "table",
+      "caption": "Traceable candidate examples for manual checking; dictionary matches are not final codes",
+      "rows": 12
+    },
+    {
+      "id": "RQ2_F1",
+      "kind": "figure",
+      "caption": "Lifecycle signal rates; equal latest-report weighting among substantive mapped answers",
+      "rows": 4
+    },
+    {
+      "id": "RQ2_F2",
+      "kind": "figure",
+      "caption": "Availability versus candidate rate; denominators are mapped questions and substantive answers respectively",
+      "rows": 4
+    },
+    {
+      "id": "RQ2_T1",
+      "kind": "table",
+      "caption": "Missing dictionary signals by stage; multi-stage answers recur across stages",
+      "rows": 55
+    },
+    {
+      "id": "RQ2_T2",
+      "kind": "table",
+      "caption": "Complete question-title mapping audit for human review; titles are never scored as answers",
+      "rows": 125
+    },
+    {
+      "id": "RQ3_F1",
+      "kind": "figure",
+      "caption": "Country comparison in latest reports; observations are organisation labels",
+      "rows": 46
+    },
+    {
+      "id": "RQ3_F2",
+      "kind": "figure",
+      "caption": "All-report period comparison; repeated organisations and template changes prevent causal interpretation",
+      "rows": 58
+    },
+    {
+      "id": "RQ3_T1",
+      "kind": "table",
+      "caption": "Country-by-period sample composition; no representation of all companies is implied",
+      "rows": 28
+    },
+    {
+      "id": "RQ3_T2",
+      "kind": "table",
+      "caption": "Matched exact-label earliest/latest reports on identical substantive questions; changed wording is excluded",
+      "rows": 12
+    },
+    {
+      "id": "RQ4_F1",
+      "kind": "figure",
+      "caption": "Association between principle mentions and answer-level accountability co-occurrence candidates",
+      "rows": 46
+    },
+    {
+      "id": "RQ4_F2",
+      "kind": "figure",
+      "caption": "Paired score differences; constructs and denominators differ",
+      "rows": 46
+    },
+    {
+      "id": "RQ4_T1",
+      "kind": "table",
+      "caption": "Descriptive high/low discordance at prespecified thresholds; no validated governance standard",
+      "rows": 12
+    },
+    {
+      "id": "RQ4_T2",
+      "kind": "table",
+      "caption": "Largest absolute-score-discordance cases with source responses; requires qualitative interpretation",
+      "rows": 6
+    }
+  ],
+  "status": "actual CSV-based exploratory text analysis; accountability links require human confirmation",
+  "organisation_identity": "exact supplied labels; no automatic corporate alias merging",
+  "rq3_change": "country and period comparisons replace unavailable sector/document-type fields"
+}

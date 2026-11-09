@@ -270,8 +270,6 @@ d['url_count']=d.answer.str.count(r'https?://[^\s)]+')
 d['word_count']=d.answer.str.split().str.len()
 for name,pat in PRINCIPLES.items():
     d['principle_'+name]=d.answer.str.contains(pat,case=False,regex=True)&d.eligible
-(OUT/'lexicon_and_stage_rules.json').write_text(json.dumps({'components':LEXICON,'principles':PRINCIPLES,'stage_rules':STAGE_RULES,'negation_window_characters':45},indent=2))
-d.assign(stages=d.stages.map('|'.join)).to_csv(OUT/'answer_features_and_audit.csv',index=False)
 print('Substantive governance answers:',int(d.eligible.sum()),'| Blank question answers:',int(d.status.eq('blank').sum()))
 
 # %%
@@ -279,6 +277,11 @@ print('Substantive governance answers:',int(d.eligible.sum()),'| Blank question 
 ORIGINAL_RULES = {'responsibility': '\\b(?:accountab\\w*|responsib\\w*|oversight|committee|board|chief\\s+\\w+\\s+officer|designated\\s+owner)\\b', 'procedure': '\\b(?:procedure\\w*|workflow\\w*|approval\\w*|risk assessment\\w*|review process\\w*|governance framework\\w*|policy review\\w*)\\b', 'assurance': '\\b(?:audit\\w*|independent review\\w*|external evaluation\\w*|verification|validation|certification\\w*|red[- ]team\\w*)\\b', 'failure_response': '\\b(?:incident\\w*|remediat\\w*|corrective action\\w*|escalat\\w*|rollback\\w*|redress|complaint\\w*)\\b'}
 for name,pattern in ORIGINAL_RULES.items():
     d['original_'+name] = d.answer.str.contains(pattern,case=False,regex=True)&d.eligible
+# Export only after all screening dimensions exist: freeze consumes these columns.
+required_original_columns = ['original_'+name for name in ORIGINAL_RULES]
+assert set(required_original_columns).issubset(d.columns)
+(OUT/'lexicon_and_stage_rules.json').write_text(json.dumps({'components':LEXICON,'principles':PRINCIPLES,'stage_rules':STAGE_RULES,'original_rules':ORIGINAL_RULES,'negation_window_characters':45},indent=2))
+d.assign(stages=d.stages.map('|'.join)).to_csv(OUT/'answer_features_and_audit.csv',index=False)
 original_baseline=d.groupby('report_id')[['original_'+k for k in ORIGINAL_RULES]].max().astype(int)
 original_baseline['original_anywhere_all_four']=original_baseline.eq(1).all(axis=1).astype(int)
 original_baseline.to_csv(OUT/'original_rule_report_baseline.csv')

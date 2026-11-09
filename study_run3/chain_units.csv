@@ -1,0 +1,1 @@
+unit_id,report_id,control_id,stage,row_ids,quote,responsibility,procedure,assurance,failure_response,responsibility_procedure,procedure_assurance,assurance_failure_response,link_quote,artifact_access,artifact_url,reviewed,review_note,traceability_reference

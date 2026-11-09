@@ -13,3 +13,9 @@ python implementation.py prepare --workspace study_run1
 python implementation.py freeze --workspace study_run1
 python implementation.py analyse --workspace study_run1
 python implementation.py evaluate --workspace study_run1
+
+python implementation.py prepare --workspace study_run2
+
+Copy-Item .\study_run1\eligibility.csv .\study_run2\eligibility.csv -Force
+
+python implementation.py freeze --workspace study_run2

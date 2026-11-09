@@ -1,0 +1,56 @@
+stages,missing_signals,n_answer_stage_pairs,stage_denominator,percent
+deployment,"actor, process, evidence, response",66,218,30.275229357798164
+deployment,"actor, evidence, response",53,218,24.31192660550459
+deployment,"actor, response",33,218,15.137614678899082
+deployment,all four detected,16,218,7.339449541284404
+deployment,evidence,13,218,5.963302752293578
+deployment,"evidence, response",12,218,5.504587155963303
+deployment,response,9,218,4.128440366972477
+deployment,"actor, evidence",5,218,2.293577981651376
+deployment,actor,4,218,1.834862385321101
+deployment,"actor, process, response",3,218,1.3761467889908257
+deployment,"process, evidence, response",2,218,0.9174311926605505
+deployment,"process, evidence",1,218,0.45871559633027525
+deployment,"process, response",1,218,0.45871559633027525
+design,"actor, process, evidence, response",107,237,45.14767932489451
+design,"actor, evidence, response",41,237,17.29957805907173
+design,"actor, process, response",34,237,14.345991561181435
+design,"actor, response",16,237,6.751054852320675
+design,"evidence, response",12,237,5.063291139240507
+design,response,9,237,3.7974683544303796
+design,"process, evidence, response",8,237,3.3755274261603376
+design,"actor, evidence",2,237,0.8438818565400844
+design,all four detected,2,237,0.8438818565400844
+design,evidence,2,237,0.8438818565400844
+design,"process, response",2,237,0.8438818565400844
+design,actor,1,237,0.4219409282700422
+design,"process, evidence",1,237,0.4219409282700422
+monitoring,"actor, evidence, response",60,190,31.57894736842105
+monitoring,"actor, response",30,190,15.789473684210526
+monitoring,"actor, process, evidence, response",27,190,14.210526315789474
+monitoring,all four detected,16,190,8.421052631578947
+monitoring,"evidence, response",15,190,7.894736842105263
+monitoring,evidence,12,190,6.315789473684211
+monitoring,response,9,190,4.7368421052631575
+monitoring,actor,8,190,4.2105263157894735
+monitoring,"actor, evidence",6,190,3.1578947368421053
+monitoring,"process, evidence, response",3,190,1.5789473684210527
+monitoring,"actor, process, evidence",1,190,0.5263157894736842
+monitoring,"actor, process, response",1,190,0.5263157894736842
+monitoring,"process, evidence",1,190,0.5263157894736842
+monitoring,"process, response",1,190,0.5263157894736842
+remediation,"actor, process, evidence, response",43,213,20.187793427230048
+remediation,all four detected,36,213,16.901408450704224
+remediation,"actor, evidence, response",31,213,14.553990610328638
+remediation,"actor, evidence",28,213,13.145539906103286
+remediation,evidence,20,213,9.389671361502348
+remediation,actor,15,213,7.042253521126761
+remediation,"evidence, response",12,213,5.633802816901408
+remediation,"actor, response",6,213,2.816901408450704
+remediation,response,6,213,2.816901408450704
+remediation,process,5,213,2.347417840375587
+remediation,"actor, process, response",4,213,1.8779342723004695
+remediation,"actor, process, evidence",2,213,0.9389671361502347
+remediation,"process, evidence",2,213,0.9389671361502347
+remediation,"process, evidence, response",2,213,0.9389671361502347
+remediation,"process, response",1,213,0.4694835680751174

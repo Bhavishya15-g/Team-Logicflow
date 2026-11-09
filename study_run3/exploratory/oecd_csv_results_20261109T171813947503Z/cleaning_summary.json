@@ -1,0 +1,8 @@
+{
+  "raw_rows": 3925,
+  "normalised_exact_duplicates_removed": 248,
+  "question_answer_records": 3643,
+  "report_records": 58,
+  "organisation_labels": 46,
+  "records_with_multiple_distinct_answers": 6
+}

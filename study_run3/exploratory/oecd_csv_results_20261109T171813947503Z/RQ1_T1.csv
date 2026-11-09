@@ -1,0 +1,5 @@
+component,n_organisation_labels,mean_report_rate_percent,median_report_rate_percent,answers_with_signal,substantive_answers
+actor,46,24.245091214266232,25.0,645,2579
+process,46,39.81973036971971,39.49579831932773,1013,2579
+evidence,46,16.833953542636042,16.307413376309427,449,2579
+response,46,11.614467840348981,11.035007610350075,309,2579

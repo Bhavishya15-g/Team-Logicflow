@@ -1,0 +1,14 @@
+{
+  "eligibility_sha256": "6474ba7714a9e23470119a663acf59dc1119499bfbd8d9b1d9cb20b3a64b6ccb",
+  "input_sha256": "39186b7d9c3e93ee6c038815b3a7f5ab1210f9f8689501b24ac58d439be323ea",
+  "locked_files": {
+    "eligible_answers.csv": "7af47116b73ca06a7ca30eac9fc0e8e9caa8db793092b216f2ea17de1a2813c2",
+    "eligible_reports.csv": "54b5c2a81f4b7830ebe80aa233e1c2e5aac4bc66a62c5afcbc84278ec989908f",
+    "frozen_sample.csv": "44ea5c1ea2568bd622defbd485ca7134bc12ec6037e59a2493788022933e2ca5",
+    "lexicon_and_stage_rules.json": "83a671e1de88015df14af0c93002edb6d728593cd4f3f50a834c29331494c1f1"
+  },
+  "rule": "pilot/held-out groups are canonical companies, not name aliases",
+  "seed": 42,
+  "implementation_sha256": "5280ae16d0ef13221dd68c53afcd81a33bc06d0db798524df33682d4c9e17767",
+  "exploratory_sha256": "4e5f6b11da33d7f61c1238cc449cead3b83ac821bf3184e2388b145d6ce1c69d"
+}

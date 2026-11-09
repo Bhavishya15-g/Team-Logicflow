@@ -1,0 +1,1794 @@
+[
+  {
+    "row_id": "e395948c4886fa52d9f9",
+    "sample_index": 2,
+    "A": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Research priorities and standards alignment are generic procedures, not a failure-response arrangement."
+  },
+  {
+    "row_id": "212a9dba21c811ac1ddf",
+    "sample_index": 11,
+    "A": [
+      2,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "B": [
+      2,
+      3,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      2,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "reason": "CEO accountability is current. Deployment gates, pilot testing and drift safeguards are explicitly pre-production/prospective, so do not establish operating assurance."
+  },
+  {
+    "row_id": "9999e514e32c019441a9",
+    "sample_index": 13,
+    "A": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Specifically titled framework sections trace the claimed security arrangement; well-tested is only generic assurance. Referenced material not externally inspected."
+  },
+  {
+    "row_id": "a4db72fc8f6b5d137b0d",
+    "sample_index": 15,
+    "A": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "reason": "Training, stewardship and purple-team testing/mitigation are concrete. Named training programs do not by themselves identify a traceable operational governance record."
+  },
+  {
+    "row_id": "cd0c327904bdb67a29b7",
+    "sample_index": 21,
+    "A": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Flattened collaboration checklist has ambiguous column selection and no disclosed response routine; do not borrow mitigation content from the question."
+  },
+  {
+    "row_id": "5e7f7e33e8f2cfb71f7f",
+    "sample_index": 23,
+    "A": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "A principle to explain AI use under unspecified guidelines lacks an operational notification mechanism."
+  },
+  {
+    "row_id": "5a1a98e91ad45465fbd6",
+    "sample_index": 26,
+    "A": [
+      0,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "reason": "Biannual sessions and newsletters are concrete; risk analyses and incident collaboration are generic checking/response without a specified control link."
+  },
+  {
+    "row_id": "01367bca147d262fa673",
+    "sample_index": 32,
+    "A": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Current blog publication identifies a concrete sharing channel; no identifiable evaluation or assurance activity is described in this answer."
+  },
+  {
+    "row_id": "1f4da8942a846f803ef8",
+    "sample_index": 34,
+    "A": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Advocacy of provenance with client-dependent implementation does not establish an operating provenance control."
+  },
+  {
+    "row_id": "2bcdf4a42729b3c79379",
+    "sample_index": 40,
+    "A": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Transparency reporting is explicitly not implemented; future release alone is not current procedure evidence."
+  },
+  {
+    "row_id": "26bb675941a605950dbd",
+    "sample_index": 48,
+    "A": [
+      0,
+      2,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "B": [
+      0,
+      3,
+      2,
+      2,
+      0,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      2,
+      2,
+      0,
+      1,
+      0
+    ],
+    "reason": "Biannual assessments/register and explicit response options are concrete; the source does not explicitly say assessment findings trigger those plans. No particular register entry is identified."
+  },
+  {
+    "row_id": "1b039d036b7e30c8bf2b",
+    "sample_index": 57,
+    "A": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "B": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "reason": "Named executive/AIA functions and expert policy review are concrete. Oversight of material-risk responses lacks response steps, so failure response remains generic."
+  },
+  {
+    "row_id": "60c48bf570e707e685c7",
+    "sample_index": 59,
+    "A": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      0
+    ],
+    "reason": "Executive confirmation and central reevaluation explicitly support assessment; a separate incident-reporting flow is concrete but not explicitly linked to the assessment outcome."
+  },
+  {
+    "row_id": "589d9ad242db3afe6ce0",
+    "sample_index": 60,
+    "A": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      3,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Named AI Security Portal traces an information-sharing mechanism. Recommended mitigations are public guidance, not disclosed incident handling."
+  },
+  {
+    "row_id": "286256a4e607304a39d6",
+    "sample_index": 63,
+    "A": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Flattened stakeholder accessibility choices do not specify a reporting, escalation or remedial mechanism."
+  },
+  {
+    "row_id": "7bd2e5d603815bc30c17",
+    "sample_index": 64,
+    "A": [
+      2,
+      3,
+      2,
+      3,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "reason": "Detailed investigation tracks, named frameworks and advisory escalation are concrete and linked. No specific completed incident record or uniquely located response artifact supports response score3."
+  },
+  {
+    "row_id": "bbc3d6d6faba96caa02a",
+    "sample_index": 69,
+    "A": [
+      2,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Customer settings give operational data controls, but customer choice alone does not assign accountable internal governance authority."
+  },
+  {
+    "row_id": "af39d577e8598821f52e",
+    "sample_index": 70,
+    "A": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Research domain labels alone do not disclose a role, routine, checking arrangement or failure response."
+  },
+  {
+    "row_id": "aea08fa9477ba93f6a22",
+    "sample_index": 75,
+    "A": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "B": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "reason": "Named functions review evaluations and technical reports; source explicitly says evaluation results support corrective actions, but corrective arrangement detail remains generic."
+  },
+  {
+    "row_id": "a9d3487561d9ebb2dd1f",
+    "sample_index": 87,
+    "A": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "reason": "Roles, incident documents, root-cause reviews and control feedback are concrete; generic incident/security-policy labels do not identify a specific traceable document or completed record."
+  },
+  {
+    "row_id": "b1b9a9609442665584f1",
+    "sample_index": 89,
+    "A": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Current research development/evaluation are generic mentions; leadership authority, deployment gates and suspension safeguards are expressly future arrangements. No explicit same-control link established."
+  },
+  {
+    "row_id": "0fa4ea86bd52f2f9cb54",
+    "sample_index": 90,
+    "A": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      0
+    ],
+    "reason": "Training assessments and severity-based concern escalation are concrete; no explicit statement connects assessment findings to that escalation."
+  },
+  {
+    "row_id": "f407836443331587004b",
+    "sample_index": 92,
+    "A": [
+      1,
+      3,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "B": [
+      1,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      1,
+      3,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "reason": "Implemented named policies and review cadence trace procedure. Senior oversight is generic and the committee hypothetical, so no concrete responsibility-to-procedure link is established."
+  },
+  {
+    "row_id": "2df6538a90863827bcf1",
+    "sample_index": 95,
+    "A": [
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "B": [
+      0,
+      3,
+      3,
+      2,
+      0,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      0,
+      3,
+      3,
+      1,
+      0,
+      1,
+      0
+    ],
+    "reason": "Exact FGF page references trace capability testing and named SDL threat modeling. Corporate project leadership is not an assigned accountable role; access mitigations are preventive and no explicit failure-response link is shown. References unverified externally."
+  },
+  {
+    "row_id": "abbd2fcfb992cd5a7abe",
+    "sample_index": 96,
+    "A": [
+      3,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      3,
+      3,
+      3,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      3,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "reason": "Exact versioned guideline column traces decision structure; medical/security tests and ISMS audit are concrete, but the standard version does not identify a particular audit output."
+  },
+  {
+    "row_id": "f958ca971ee1845f16ef",
+    "sample_index": 97,
+    "A": [
+      2,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      3,
+      3,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      2,
+      3,
+      3,
+      2,
+      1,
+      1,
+      1
+    ],
+    "reason": "Named/versioned certifications, SOC reporting location and ASL3/RSP publications trace procedure/assurance as disclosed. Incident escalation/remediation is concrete, but no specific response record is identified; external reports not inspected."
+  },
+  {
+    "row_id": "a9ea3e0f294fcdd570e4",
+    "sample_index": 101,
+    "A": [
+      2,
+      3,
+      2,
+      3,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      2,
+      3,
+      2,
+      3,
+      1,
+      1,
+      1
+    ],
+    "reason": "Assigned roles and explicit test-mitigate-retest cycle support links. Named Standard/FGF and AI Security and Safety Bug Bar trace procedures and severity-based escalation; no particular test result is identified. External references remain unverified."
+  },
+  {
+    "row_id": "45f2b7b10c4d7f06a39f",
+    "sample_index": 102,
+    "A": [
+      0,
+      3,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "B": [
+      0,
+      3,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      0,
+      3,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "reason": "Named FGF/MSRC routes trace evaluation/reporting procedure. External prompt writing and tests are concrete; possible mitigation improvements and intake are generic response, not explicit implemented assessment-to-correction."
+  },
+  {
+    "row_id": "09ac884bdb41c3b64490",
+    "sample_index": 108,
+    "A": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Research examines oversight and escalation as topics rather than assigning current governance roles or establishing operating response/assurance. Planned publications are not completed evidence."
+  },
+  {
+    "row_id": "01520fd3af9e5c2c8de6",
+    "sample_index": 109,
+    "A": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      1,
+      3,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      1,
+      3,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "reason": "Moderation API/policies trace procedures and monitoring explicitly informs enforcement/improvement. Broad participation across teams does not establish assigned final accountability."
+  },
+  {
+    "row_id": "814377f7ebc8ced0a0fd",
+    "sample_index": 111,
+    "A": [
+      3,
+      3,
+      2,
+      3,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      3,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      3,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "reason": "Versioned guideline column traces governance structure; named policies and concrete remediation/retest support procedure/response. No particular postmortem or specifically located incident-response artifact supports response3."
+  },
+  {
+    "row_id": "2d37c954875ae783bd94",
+    "sample_index": 113,
+    "A": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "A policy title and Trust Center address without operational content are a generic procedure reference; no response steps are disclosed in the answer."
+  },
+  {
+    "row_id": "9e64d174a0f7a41390b8",
+    "sample_index": 116,
+    "A": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Lightweight models and SDG contribution describe a product/research characteristic, not a specified repeatable governance control."
+  },
+  {
+    "row_id": "013673f15d26bed6f717",
+    "sample_index": 117,
+    "A": [
+      2,
+      3,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "B": [
+      0,
+      3,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      3,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "reason": "Named collaboration/MoU and grants enabling external inspection trace procedure and concrete assurance. Leading research partnerships is not assigned accountable governance authority."
+  },
+  {
+    "row_id": "ae14549761b8018a95e8",
+    "sample_index": 120,
+    "A": [
+      0,
+      2,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "B": [
+      0,
+      2,
+      2,
+      2,
+      0,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      2,
+      2,
+      0,
+      1,
+      0
+    ],
+    "reason": "Specified insider screening/monitoring and escalation are concrete; a list alone does not explicitly connect detected activity to response."
+  },
+  {
+    "row_id": "9f19c43a4fd85a24fd9d",
+    "sample_index": 121,
+    "A": [
+      1,
+      2,
+      2,
+      1,
+      0,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      1,
+      2,
+      2,
+      1,
+      0,
+      1,
+      1
+    ],
+    "reason": "External evaluation findings explicitly inform countermeasure consultation. Divisions are involved, but accountable decision authority and actual corrective implementation remain unspecified."
+  },
+  {
+    "row_id": "608d1122d65e52fca331",
+    "sample_index": 122,
+    "A": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Checked stakeholder groups indicate generic accessibility only; flattened columns and no specific incident workflow prevent response coding."
+  },
+  {
+    "row_id": "bbc3dc55e77f672635ec",
+    "sample_index": 123,
+    "A": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      0,
+      3,
+      3,
+      2,
+      0,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      0,
+      3,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "reason": "Named policies/quality guidelines trace procedure; maintained certification is concrete assurance without an identified specific certificate/output. Committee membership does not assign internal accountable authority."
+  },
+  {
+    "row_id": "3dbee48ba70010e413c3",
+    "sample_index": 128,
+    "A": [
+      2,
+      2,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "B": [
+      2,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      2,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "reason": "Board-linked governance structure is established, but its routine is generic; annual review is explicitly scheduled rather than demonstrated current checking."
+  },
+  {
+    "row_id": "9d236210839bcedfc1f2",
+    "sample_index": 131,
+    "A": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Research domains alone are not descriptions of operating governance arrangements."
+  },
+  {
+    "row_id": "79313cab42d4ef9b7122",
+    "sample_index": 134,
+    "A": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "B": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      2,
+      3,
+      2,
+      2,
+      1,
+      1,
+      0
+    ],
+    "reason": "Named checklist and CISO/DPO gate trace concrete predeployment controls. A required fallback is disclosed, but not explicitly triggered by findings from the stated tests."
+  },
+  {
+    "row_id": "19dd2e54b505840ca9a8",
+    "sample_index": 140,
+    "A": [
+      0,
+      2,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Grants/contracts/hiring are concrete incentives; red teaming is only mentioned. No explicit relation between the incentive arrangement and an actual checking process is stated."
+  },
+  {
+    "row_id": "70b240c94bac472081fd",
+    "sample_index": 143,
+    "A": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "B": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      2,
+      2,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    "reason": "Technical committees/expert proposal reviews explicitly assign review roles and checking. Reducing risks is the purpose of preemptive review, not a disclosed failure-response arrangement."
+  },
+  {
+    "row_id": "5aabb8d3439faeaa1943",
+    "sample_index": 148,
+    "A": [
+      1,
+      2,
+      2,
+      0,
+      1,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "reason": "Concrete privacy/access controls and privacy/vendor assessments are part of the same framework. Customer configurability does not establish accountable governance authority."
+  },
+  {
+    "row_id": "0d80b6948181c2d140e3",
+    "sample_index": 149,
+    "A": [
+      0,
+      2,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      1,
+      2,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Bounties/safe-harbor disclosure and grants are concrete incentives; red-team hiring is generic checking. No actual correction/escalation or explicit incentive-to-assurance relation is given."
+  },
+  {
+    "row_id": "1577e6161083d547b116",
+    "sample_index": 151,
+    "A": [
+      0,
+      2,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      2,
+      2,
+      0,
+      1,
+      0
+    ],
+    "reason": "Current reviews and incident-triggered framework refresh are concrete. No explicit link states checking findings cause the remedial update; technical watermarking is expressly absent."
+  },
+  {
+    "row_id": "24cb6141949791ec9984",
+    "sample_index": 152,
+    "A": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Flattened collaboration table cannot establish specific mitigation, auditing or response arrangements."
+  },
+  {
+    "row_id": "e35b0c6a9269fe167d6f",
+    "sample_index": 156,
+    "A": [
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "B": [
+      2,
+      3,
+      3,
+      2,
+      1,
+      1,
+      1
+    ],
+    "AI_adjudicated": [
+      2,
+      3,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    "reason": "Specific standards roles, named Guide and dated conference trace sharing procedure. Pilot tests/verification results are concrete but not individually identified outputs; published countermeasures are not an explicit same-control remediation chain."
+  },
+  {
+    "row_id": "75c9a476a170d60db18e",
+    "sample_index": 162,
+    "A": [
+      0,
+      3,
+      2,
+      2,
+      0,
+      1,
+      1
+    ],
+    "B": [
+      0,
+      3,
+      2,
+      2,
+      0,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      3,
+      2,
+      2,
+      0,
+      1,
+      0
+    ],
+    "reason": "Named Principles/URL trace internal usage rules. Rights investigations and dispute handling are concrete, but no explicit investigation-to-litigation trigger is stated."
+  },
+  {
+    "row_id": "6b77eb6b2544c606c9cb",
+    "sample_index": 165,
+    "A": [
+      2,
+      3,
+      0,
+      3,
+      1,
+      0,
+      0
+    ],
+    "B": [
+      2,
+      3,
+      0,
+      2,
+      1,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      2,
+      3,
+      0,
+      3,
+      1,
+      0,
+      0
+    ],
+    "reason": "Controller/customer distinction assigns actual notification duties; Article33 and specified CNIL notice content trace reporting/response requirements. This codes the disclosed reference, not independently verified legal compliance."
+  },
+  {
+    "row_id": "d20395ebe7d656fa9c00",
+    "sample_index": 169,
+    "A": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Appropriate sharing upon request remains generic without a specified request process, channel or detailed arrangement."
+  },
+  {
+    "row_id": "c6a261c9095647a44322",
+    "sample_index": 174,
+    "A": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Stakeholder collaboration roster lacks concrete risk-response or assurance details; table timing is ambiguous after export."
+  },
+  {
+    "row_id": "d2a86bce0b72bf3bfcf4",
+    "sample_index": 178,
+    "A": [
+      1,
+      2,
+      2,
+      0,
+      1,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      2,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "reason": "Quarterly reviews and restoration-test cadence describe checking within governance. Founder-operated status alone does not assign a decision mandate; external audit explicitly absent."
+  },
+  {
+    "row_id": "730bc9415282315b27d9",
+    "sample_index": 183,
+    "A": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      2,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Research dataset/detection themes are generic procedure/checking mentions without evidence of current operating governance evaluation or a linked control."
+  },
+  {
+    "row_id": "89f23254131ecb247cfd",
+    "sample_index": 185,
+    "A": [
+      1,
+      2,
+      2,
+      2,
+      1,
+      0,
+      0
+    ],
+    "B": [
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      0
+    ],
+    "AI_adjudicated": [
+      1,
+      2,
+      2,
+      2,
+      1,
+      0,
+      0
+    ],
+    "reason": "Action constraints/human approval and interruption are concrete; monitoring/logging appear in a separate checkbox item without explicit procedure-to-assurance linkage."
+  },
+  {
+    "row_id": "10bc869db09c416a938e",
+    "sample_index": 186,
+    "A": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "B": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AI_adjudicated": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reason": "Stakeholder reporting-access roster contains no specific incident-response mechanism; no response inferred from the question."
+  }
+]

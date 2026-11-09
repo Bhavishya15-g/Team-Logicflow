@@ -1,0 +1,470 @@
+[
+  {
+    "report_id": "063635f8ee77df38c1d3",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 40,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "dc8c87fa69567ac16c1c",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 40,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "ef1ba573f157b1c959ae",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 40,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "e33d71630a5e7a62ff6e",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 40,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "9085221ef6faef5d5ac8",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 40,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "a766683e0636e2bccc7b",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 78,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "272f8b7893a7f462eb14",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 85,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "7132b9b7a724af0baa2d",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 83,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "f61a4967b6d92907dffa",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 76,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "cd64792505eed58d842b",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 72,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "e9245f40159941978749",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 40,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "ee0382af670c076d44b3",
+    "status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_read": 85,
+    "note": "All question/answer records read semantically. Salient aggregated controls selected per stage; not an exhaustive enumeration of every control. Scores describe disclosed evidence, not effectiveness or absence of internal practice. External artifacts/URLs not opened or accessibility verified; references alone do not receive score 3. Same-control cross-stage matches made only where the cited lifecycle mechanism substantiates them. Independent human control-level adjudication remains required."
+  },
+  {
+    "report_id": "00b26cd7065ffe3d94b5",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 84 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. KDDI states lifecycle boxes were blank because a tool-registration issue prevented reflecting established AIA practices; consolidated narrative supports stage coverage. Generic checklist mechanisms not separately enumerated."
+  },
+  {
+    "report_id": "7cca63cc352aeceaa3ce",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 40 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. External dataset/blog/privacy URLs were read only as report text; no accessibility verification or score3 claim. Future incident publication excluded as current mechanism."
+  },
+  {
+    "report_id": "a48e4bb59af4c4574bc6",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 64 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. Future gate and staff training intentions excluded as operational mechanisms. Undisclosed cybersecurity detail and no incident records do not establish absent internal practices."
+  },
+  {
+    "report_id": "6e4dc459407a5c1a9e9a",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 40 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. Unverified external trust and responsible-use URLs are context only, no public-access or score3 claims. Incident issue log is disclosed but does not supply missing links to iterative model evaluation."
+  },
+  {
+    "report_id": "0fa114622d08a40b42d7",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 71 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. Research-stage security remediation remains applicable despite no deployment. Public study links unverified, no public-access or score3 claims."
+  },
+  {
+    "report_id": "5ed531860cb71e319a8c",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 40 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. No incidents reported; existing documented response flow distinguished from future press-release plans. Referenced web pages and dated committee establishment support narrative specificity but external content not checked and no scores3."
+  },
+  {
+    "report_id": "a519faf615da0d0e8a2e",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 40 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. Third-party ISO privacy certification for May2024 support tool is a specific reported example, but selected control aggregation uses DEP/purple-team and incident governance rather than treating the certification as evidence of the entire chain. External URLs not checked."
+  },
+  {
+    "report_id": "23af318b950aed88eea6",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 74 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. Nondisclosure of security technical details retained. Agent controls, transparency and training also disclosed but not exhaustively separately enumerated; salient distinct stage controls selected."
+  },
+  {
+    "report_id": "c9fa44ceed9216e1ab85",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 76 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. External security overview URL unverified. Disclosure notes distinction between automated trace mechanisms and identifiable artifacts. Other privacy/agentic/provenance controls not exhaustively enumerated."
+  },
+  {
+    "report_id": "177d4475c43452c2659c",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 86 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. Many implementation/reference links appear but were not opened or accessibility verified; selected current mechanisms scored at2 without asserting external artifact traceability. Agent and privacy controls not exhaustively enumerated."
+  },
+  {
+    "report_id": "c886f3347c50bc613c49",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "review_scope": "Read all 83 questions/answers.",
+    "review_note": "AI review requires human validation. Selected and aggregated salient controls rather than exhaustive enumeration. No independent human adjudication performed. All scores limited to 0–2 unless a traceable artifact is specifically established. Secure-testing answer gives planned red-team options, excluded as established testing authority. Agentic scanner/monitoring R&D distinguished from current company-wide mechanisms. Referenced benchmark/event/technology URLs unverified; no public access or score3 claim."
+  },
+  {
+    "report_id": "2a4d881127987be4525d",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 40,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "2ed75b5b0cfb3f43b063",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 83,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "a926e57cd0ca74716956",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 40,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "e81afdd74491d7e17f55",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 73,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "dccf0fddf36ade046248",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 40,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "8a3a83e710356a75a439",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 76,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "4d4a498b4acce41fbff2",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 81,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "7ffe366e69e123598e6d",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 76,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "d7d52fe8fa2843ff21c7",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 88,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "8c9c27370a6c4e630ba6",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 74,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "7f446b8220c259d0f37f",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 40,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "6b788bad776664aa12b4",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 40,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "ab3061e0fd260f8a5ec8",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answers_reviewed": 40,
+    "note": "Full sequential semantic reading of all questions and answers. Salient control aggregation/selection is not exhaustive; same-control links require explicit connecting text. No external URL accessibility verified; no score 3 assigned. AI main coding requires independent human review/adjudication; absence of disclosure is not absent practice."
+  },
+  {
+    "report_id": "07f340a3d8c8829f1d02",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 40,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "e4ce3f8f64c77d0be2a1",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 40,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "705f29548743aa32bd5c",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 75,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "e8b22bc9d505daea2c8f",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 40,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "10649100904a64788def",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 72,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "d063bc22fcfdff0d5408",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 40,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "a28227a9cc5de31c4571",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 86,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "70d23e826b0fb92275a8",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 87,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "2bb575f8099631b41c8a",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 40,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "15a2e6327ee55a2690f3",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 40,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "8d71ad293c6684d3a2aa",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 87,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "2bee0098623f0eb6ca8b",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 86,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "3c553914d72f1957b42c",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "answer_count": 89,
+    "note": "All questions and answers read in full. Salient actual controls selected and aggregated; enumeration is not exhaustive. Future intentions not treated as current controls. All ratings capped at 2 because artifact support/access was not independently verified. AI review requires human validation and independent report-control adjudication. Public-corpus silence does not establish absence of internal practice."
+  },
+  {
+    "report_id": "69f622c1b183d9ce0dd1",
+    "reviewer_type": "AI",
+    "human_validation_status": "PENDING",
+    "answers_read": 40,
+    "eligible_answers": 39,
+    "review_status": "AI_FULL_SCOPE_REVIEW_REQUIRES_HUMAN_VALIDATION",
+    "scope": "All 40 answers read in full, including long staff-training/Sensitive Uses and research answers; all 39 eligible source answers considered for controls. One blank answer supplies no evidence.",
+    "selection_limitations": "Selected aggregated governance controls are substantively evidenced; this is not an exhaustive enumeration of every technical feature, research grant or policy mention. Repeated stages are same-control disclosures, not independent company observations. Research-only future tools, generic yes responses, inapplicable claims and question presuppositions do not establish operational controls. All four stages applicable; no all-zero placeholder required.",
+    "traceability_limitations": "No public URLs, certifications, named reports or dated incident artifacts were externally checked. Artifact access unclear, artifact_url blank; ratings capped2 even where named references or dated claims occur. Public availability in source is a disclosure claim, not independently confirmed access.",
+    "link_method": "Links coded only where the source explicitly assigns operation/checking of the same control and links findings or verified fixes with corrective action. One short quote/link_quote need not reproduce every supporting sentence; row_ids and per-unit notes identify full within-control evidence. Responsibility deliberately0 for frontier thresholds when no final owner for that specific control disclosed.",
+    "interpretation": "No claim of human review, legal compliance or governance effectiveness. Public disclosure measures do not establish internal practice absence or operating success. Full report-level independent adjudication/human validation remains pending."
+  },
+  {
+    "report_id": "cce717d4e1af3646e9d4",
+    "reviewer_type": "AI",
+    "human_validation_status": "PENDING",
+    "reviewed_answer_count": 89,
+    "eligible_answer_count": 76,
+    "review_scope": "Full semantic reading of all89 source answers in untruncated sequential batches. Source report and eligibility list preserved. No peer labels or automated proposed scores consulted.",
+    "selection": "Aggregated eight substantive recurring controls across applicable stages. Units support a documented selection of controls, not an exhaustive enumeration of every control or research initiative. Same control IDs reused across stages only on substantive within-report evidence; no cross-period identity inference.",
+    "limitations": "AI review requires independent human validation and report-control adjudication. No external URL, certification, system card, research paper, case record or internal artifact was inspected; all component scores capped at2, artifact_access unclear. Self-reported operation does not prove effectiveness. Blank/administrative answers do not establish absence or inapplicability. Draft September2026 Humanist Code, prospective benchmark expansion, planned outputs and customer-configurable capabilities were not treated as universally operational controls. Descriptive dates and counts remain unverified claims. Research, public benefit, literacy and standards participation sections were read, but not all constitute a distinct accountable governance control. Links require explicit same-control relations, assessed across eligible answers when aggregated; no linkage inferred from a stakeholder roster or mere co-occurrence.",
+    "source_answer_ids_read": [
+      "b6781c924d918e639dd3",
+      "bb69b1221fc4e484a0df",
+      "2d63e882673d94d3ce40",
+      "7df945e4b1bc864b4487",
+      "2df6538a90863827bcf1",
+      "faa163fae5441f577618",
+      "e507a8da44d2953e0b7d",
+      "54c8cc18bb67ba9d64d0",
+      "2156d5e89be2b2fc2ed9",
+      "5221e7fd4069ce9844a5",
+      "c593b2d03ffd529cfe34",
+      "f92837e76d6e5972581a",
+      "a2a50b1a257e3b30d3eb",
+      "b1117a6782133de710e2",
+      "eb01aed2dfbbbff4077f",
+      "75c37867aeaac554e5e7",
+      "18ab2fdee984cccc0b3f",
+      "a79b75c49ce92d4be30a",
+      "7264a48ad49c1f5ddbec",
+      "f8c772df852bbbb5a05f",
+      "0cac7b6824399d856c71",
+      "a0c57634e42ec5af01f7",
+      "3ea9562fe05ba423b4e1",
+      "4dbf7b76ba609869fe53",
+      "6e18998f5b2da17c160f",
+      "d9e2bd3895469a723f5d",
+      "d62741e75ca157303383",
+      "08d2b716be54748957da",
+      "a9ea3e0f294fcdd570e4",
+      "d8088117e120e5352c21",
+      "26d4e34e1ee69f13e974",
+      "9c9fdbc8fd6dda9dda64",
+      "0c7f0a25f4a046c30775",
+      "c81278bf973c3adbdffa",
+      "0c9ccaefb40b13481b02",
+      "df10614187fbcef68227",
+      "855de3aa871e02a79be3",
+      "8a06e8646b91b5852dc5",
+      "52456e64adfa497ad56a",
+      "e579f94ae8679fb2f9f1",
+      "0dce7e1835634153020b",
+      "e7d73af5fe9f73e14f85",
+      "8b387ed3bd52be8cc6bd",
+      "9b36432893867fcacf76",
+      "6c9082a49412c2419af4",
+      "05662da06d20061bc10b",
+      "32c94d64efa5114cdb98",
+      "f735e7dcaf4d55f8b6cd",
+      "f4bb8290281712eb1e6d",
+      "9eb8d1c1fc9af086cd46",
+      "aa7e08b05295929feb1a",
+      "c254058c8eac13f362ba",
+      "f7d911daff3d3f29fdc4",
+      "6bec62b2a177d4937273",
+      "ca9aa02d4272ff99e91b",
+      "53b52a39f665d5fabb9e",
+      "d0315e3726c92aa20fb7",
+      "e1cea41444ab071c0342",
+      "aa55551ea47cd96c09de",
+      "0ddee0d98058f34b5e78",
+      "8215e56289a4c9fcb814",
+      "917d11d23601a18797a8",
+      "ebc5fbadd903f668ddd2",
+      "12e671a3a627e9613be1",
+      "d0ca48f5389e7a03f190",
+      "ec7e6bb1ede7f5f8c52a",
+      "288161b2f2f1c1e5b1e0",
+      "5ebf3763c5824b012246",
+      "580ed8ca46774c39b387",
+      "e6f636c375db19d16946",
+      "b0ee7e75c35b20341eca",
+      "4757a4c413edb91d9bf8",
+      "f1ccb99ca1b4aea20665",
+      "2e55b66d7c1cd497c8d8",
+      "3ab74b1a5e37bcad157a",
+      "f8dda256b11e453eb6af",
+      "bcf40419197600c5b130",
+      "bcb0cede21899a0a90e9",
+      "945f926c7224e301738d",
+      "76293a4b0e9ab50019e5",
+      "7912b2fb6e4b0fbcc1ed",
+      "73640d1ca423618ac06e",
+      "36df0e0202fa961f30df",
+      "00dc76d474a95d6a14e5",
+      "cb791518ccc73012c07d",
+      "78088a60e18ccabd6702",
+      "fd6b7ca682589d52395c",
+      "7cd6042432503baef5e4",
+      "615e505d9c4b85c521db"
+    ]
+  },
+  {
+    "report_id": "c190233bf2c30cc5ca7c",
+    "organization": "OpenAI Opco, LLC",
+    "period": "Q3 2026",
+    "answer_count": 89,
+    "eligible_answer_count": 76,
+    "full_read_statement": "Read all 89 questions and answers in full in source order (indices 0–88), including every eligible answer, administrative answers and blanks. Reviewed all four stages semantically; no truncation or regex-only screening. Read CODEBOOK.md and validate_reviews.py before coding. Did not read sampled peer labels.",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "selection": "Four aggregated, salient control-stage units selected after full report review; selected controls are not an exhaustive inventory. Preparedness control matched across design and deployment on explicit common framework, capability/safeguard reports and Safety Advisory Group process.",
+    "limits": "AI semantic coding only; independent human review/adjudication remains required. External URLs, named artifacts, framework versions, dated incident reports, system cards and certification claims were not externally inspected or validated. Component scores capped at 2; no public artifact access claimed and no effectiveness/compliance inference. No evidence here establishes no internal practice. Current mechanisms distinguished from research funding commitments and future intentions."
+  },
+  {
+    "report_id": "c25127b2bd77d0de2dbe",
+    "organization": "Ubie株式会社",
+    "reviewer_type": "AI",
+    "review_status": "AI_REVIEWED_REQUIRES_HUMAN_VALIDATION",
+    "all_answer_count": 87,
+    "eligible_answer_count": 75,
+    "review_complete": 1,
+    "full_read_statement": "Read all 87 complete questions and answers in source order, including all 75 eligible rows and all 12 ineligible administrative/blank rows, in sequential non-truncated blocks 0-21, 22-43, 44-65, 66-86. Reviewed risk taxonomy, release gates, data/medical quality, security/privacy, vulnerability and incident response, governance/accountability, provenance, research, training and social-benefit disclosures semantically. No peer sample labels read.",
+    "limitations": "AI semantic review only; no human validation claimed. Four salient stage-level aggregated controls selected, not exhaustive. All component scores capped at 2. No external artifacts/URLs verified, so public accessibility and independent traceability are not established; internal records and audit operation remain self-reported. One source answer ends mid-sentence (63eb109993cfe77a47e3); reviewed its entire supplied text without inferring missing content. Future external agentic deployment not treated as an operational control. Disclosure evidence does not establish internal absence, compliance, or governance effectiveness."
+  }
+]

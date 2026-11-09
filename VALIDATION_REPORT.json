@@ -1,0 +1,49 @@
+{
+  "status": "PASS_STRUCTURAL_SOURCE_AND_FROZEN_INTEGRITY_CHECKS",
+  "annotation_provenance": "AI_ONLY_HUMAN_VALIDATION_PENDING",
+  "coder_A_rows": 190,
+  "coder_B_rows": 190,
+  "AI_adjudicated_rows": 190,
+  "reports": 53,
+  "control_stage_units": 267,
+  "coverage_rows": 212,
+  "applicable_report_stages": 209,
+  "inapplicable_report_stages": 3,
+  "AI_coder_consensus_answers": 134,
+  "AI_disputed_answers_reread": 56,
+  "existing_validate_units": "passed",
+  "existing_evaluate": "completed with AI reference labels only; not human-validated accuracy",
+  "frozen_input_restoration_in_temporary_test_copy_only": [
+    {
+      "file": "eligible_answers.csv",
+      "byte_representation": "CSV_records_CRLF",
+      "matches_original_frozen_hash": true
+    },
+    {
+      "file": "eligible_reports.csv",
+      "byte_representation": "CRLF",
+      "matches_original_frozen_hash": true
+    },
+    {
+      "file": "frozen_sample.csv",
+      "byte_representation": "CRLF",
+      "matches_original_frozen_hash": true
+    },
+    {
+      "file": "lexicon_and_stage_rules.json",
+      "byte_representation": "CRLF",
+      "matches_original_frozen_hash": true
+    },
+    {
+      "file": "eligibility.csv",
+      "byte_representation": "CRLF",
+      "matches_original_frozen_hash": true
+    }
+  ],
+  "limitations": [
+    "Structural/quote checks cannot establish semantic correctness or exhaustive control selection.",
+    "No independent human review or artifact accessibility verification completed.",
+    "Same underlying AI model may produce correlated errors despite separate reviewer contexts.",
+    "AI evaluation output was a local compatibility check and is not included as final research findings."
+  ]
+}

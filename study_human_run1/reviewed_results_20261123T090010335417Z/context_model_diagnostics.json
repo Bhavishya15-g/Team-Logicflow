@@ -1,0 +1,7 @@
+{
+  "n_companies": 39,
+  "n_parameters": 38,
+  "matrix_rank": 34,
+  "status": "not_estimable",
+  "interpretation": "descriptive association, not causal; one latest report per canonical company"
+}

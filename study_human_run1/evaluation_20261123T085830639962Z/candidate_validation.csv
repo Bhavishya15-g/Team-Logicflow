@@ -1,0 +1,6 @@
+dimension,held_out_n,gold_positive_n,weighted_precision,weighted_recall,weighted_f1,precision_low,precision_high,recall_low,recall_high,f1_low,f1_high
+responsibility,112,0,0.0,0.0,0.0,,,,,,
+procedure,112,0,0.0,0.0,0.0,,,,,,
+assurance,112,0,0.0,0.0,0.0,,,,,,
+failure_response,112,0,0.0,0.0,0.0,,,,,,
+complete_chain,112,0,0.0,0.0,0.0,,,,,,

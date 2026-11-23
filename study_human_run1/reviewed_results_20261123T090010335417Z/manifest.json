@@ -1,0 +1,94 @@
+{
+  "status": "reviewed disclosure analysis; does not verify internal effectiveness",
+  "outputs": [
+    {
+      "id": "RQ1_F1",
+      "caption": "Reviewed mean component specificity by latest company report",
+      "kind": "figure"
+    },
+    {
+      "id": "RQ1_F2",
+      "caption": "Reviewed specificity versus explicit same-control chains",
+      "kind": "figure"
+    },
+    {
+      "id": "RQ1_T1",
+      "caption": "Reviewed specificity prevalence among coded primary controls",
+      "kind": "table"
+    },
+    {
+      "id": "RQ1_T2",
+      "caption": "Specificity threshold sensitivity with all explicit links required",
+      "kind": "table"
+    },
+    {
+      "id": "RQ2_F1",
+      "caption": "Reviewed lifecycle specificity among applicable company stages",
+      "kind": "figure"
+    },
+    {
+      "id": "RQ2_F2",
+      "caption": "Equal-report lifecycle rates with applicable-stage denominators",
+      "kind": "figure"
+    },
+    {
+      "id": "RQ2_T1",
+      "caption": "Missing specific components and explicit links",
+      "kind": "table"
+    },
+    {
+      "id": "RQ2_T2",
+      "caption": "Same-control continuity only among explicitly matched reviewed controls",
+      "kind": "table"
+    },
+    {
+      "id": "RQ3_F1",
+      "caption": "Descriptive countries using latest reviewed corporate reports",
+      "kind": "figure"
+    },
+    {
+      "id": "RQ3_F2",
+      "caption": "All reviewed reports by period; repeated firms and questionnaire changes remain confounders",
+      "kind": "figure"
+    },
+    {
+      "id": "RQ3_T1",
+      "caption": "Country period and observed questionnaire composition",
+      "kind": "table"
+    },
+    {
+      "id": "RQ3_T2",
+      "caption": "Exploratory linear country contrasts adjusted for response length and questionnaire fingerprint; noncausal",
+      "kind": "table"
+    },
+    {
+      "id": "RQ4_F1",
+      "caption": "Automated rules versus adjudicated substantive evidence and complete chains",
+      "kind": "figure"
+    },
+    {
+      "id": "RQ4_F2",
+      "caption": "Independent held-out coding agreement; ordinal scores use quadratic weights",
+      "kind": "figure"
+    },
+    {
+      "id": "RQ4_T1",
+      "caption": "Weighted held-out precision recall F1 and company-bootstrap uncertainty",
+      "kind": "table"
+    },
+    {
+      "id": "RQ4_T2",
+      "caption": "Independent coding agreement with denominators; undefined kappa retained as missing",
+      "kind": "table"
+    }
+  ],
+  "input_hashes": {
+    "eligibility.csv": "6474ba7714a9e23470119a663acf59dc1119499bfbd8d9b1d9cb20b3a64b6ccb",
+    "chain_units.csv": "44d6acaef7ffcf921ce8d68bc8428ff018f9c982e7b45b33e6a87b0b2dba4bba",
+    "coverage.csv": "74890a1d2142358ea0ee19eb677a78298a5d4064443986d1aea4891f8c20548b",
+    "frozen_sample.csv": "44ea5c1ea2568bd622defbd485ca7134bc12ec6037e59a2493788022933e2ca5",
+    "coder_A.csv": "3b6ba4c87cc879ee7fa9ad52db7011fd9de8f1bab79c9c9979e4a467eed1706c",
+    "coder_B.csv": "3b6ba4c87cc879ee7fa9ad52db7011fd9de8f1bab79c9c9979e4a467eed1706c",
+    "adjudicated_sample.csv": "7092edbff395ccba10a363231d8145d5ee105dc70a51fe3c049e1c9f680d467f"
+  }
+}

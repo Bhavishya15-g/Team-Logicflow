@@ -1,0 +1,12 @@
+{
+  "source_workspace": "study_run3",
+  "annotation_provenance": "AI-reviewed drafts; human validation pending",
+  "restoration": "Each locked input matches its existing frozen SHA256.",
+  "review_rows": {
+    "coder_A.csv": 190,
+    "coder_B.csv": 190,
+    "adjudicated_sample.csv": 190,
+    "chain_units.csv": 267,
+    "coverage.csv": 212
+  }
+}

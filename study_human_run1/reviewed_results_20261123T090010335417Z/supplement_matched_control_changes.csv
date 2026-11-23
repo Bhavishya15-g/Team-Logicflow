@@ -1,0 +1,15 @@
+canonical_id,n_matched_control_stages,change_pp,same_question_set
+anthropic,0,,False
+fujitsu,0,,False
+google,4,0.0,False
+hitachi,0,,False
+infosys,0,,False
+kddi,0,,False
+mgoit,0,,False
+microsoft,0,,False
+nec,4,0.0,False
+ntt,0,,False
+openai,0,,False
+rakuten,0,,False
+salesforce,0,,False
+telus,0,,False

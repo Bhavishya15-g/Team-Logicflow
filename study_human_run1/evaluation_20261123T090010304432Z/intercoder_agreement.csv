@@ -1,0 +1,8 @@
+dimension,n,raw_agreement,kappa
+responsibility,112,1.0,
+procedure,112,1.0,
+assurance,112,1.0,
+failure_response,112,1.0,
+responsibility_procedure,112,1.0,
+procedure_assurance,112,1.0,
+assurance_failure_response,112,1.0,

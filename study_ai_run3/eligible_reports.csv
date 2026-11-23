@@ -1,0 +1,54 @@
+report_id,Organization,Country,Reporting Period,Publication Date,date,period_sort,template_fingerprint,canonical_id
+f61a4967b6d92907dffa,Odysai,France,Q4 2026,"November 2, 2026",2026-11-02,8108,0900e80c9b496201436a,odysai
+cce717d4e1af3646e9d4,Microsoft,United States,Q3 2026,"October 2, 2026",2026-10-02,8107,94fce1eca2d6e98f5b70,microsoft
+e81afdd74491d7e17f55,OneTreck,France,Q3 2026,"October 2, 2026",2026-10-02,8107,d002d02420419b4acae6,onetreck
+70d23e826b0fb92275a8,Cohere,Canada,Q3 2026,"October 2, 2026",2026-10-02,8107,78acf6a9d42efc3a50cb,cohere
+c190233bf2c30cc5ca7c,"OpenAI Opco, LLC",United States,Q3 2026,"October 2, 2026",2026-10-02,8107,94fce1eca2d6e98f5b70,openai
+c9fa44ceed9216e1ab85,ZAION,France,Q3 2026,"October 2, 2026",2026-10-02,8107,591e52a4ceb2665afc7f,zaion
+4d4a498b4acce41fbff2,"Rakuten Group, Inc.",Japan,Q3 2026,"October 2, 2026",2026-10-02,8107,1e4c7f85106ab2ce776a,rakuten
+8d71ad293c6684d3a2aa,Salesforce,United States,Q3 2026,"October 2, 2026",2026-10-02,8107,281240bf0aa13f39109e,salesforce
+ee0382af670c076d44b3,TELUS,Canada,Q3 2026,"October 2, 2026",2026-10-02,8107,5d6f23af2c5c715bc084,telus
+0fa114622d08a40b42d7,Karavela,France,Q3 2026,"October 2, 2026",2026-10-02,8107,dc7e60ae50cac3803d87,karavela
+2ed75b5b0cfb3f43b063,Malt Community SA,France,Q3 2026,"October 2, 2026",2026-10-02,8107,5dc3e49323116cd265de,malt_community
+2bee0098623f0eb6ca8b,NEC Corporation,Japan,Q3 2026,"October 2, 2026",2026-10-02,8107,eb3d8350cc113855ac64,nec
+272f8b7893a7f462eb14,Infosys,India,Q3 2026,"October 2, 2026",2026-10-02,8107,983ed8b8ca447e6d0a9c,infosys
+c886f3347c50bc613c49,Fujitsu,Japan,Q3 2026,"October 2, 2026",2026-10-02,8107,9f01388300ae50bb02ba,fujitsu
+8a3a83e710356a75a439,Criteo,Luxembourg,Q3 2026,"October 2, 2026",2026-10-02,8107,52b650c271b7924577ae,criteo
+10649100904a64788def,Felaris Global,United States,Q2 2026,"October 2, 2026",2026-10-02,8106,121bd37dbd9010d32013,felaris_global
+cd64792505eed58d842b,OpenText,Canada,Q2 2026,"October 2, 2026",2026-10-02,8106,216ad889e97313356c55,opentext
+a48e4bb59af4c4574bc6,RATP,France,Q2 2026,"October 2, 2026",2026-10-02,8106,b7bde739cde3aa1f71bc,ratp
+8c9c27370a6c4e630ba6,EuroAIGuard Conseil,France,Q2 2026,"October 2, 2026",2026-10-02,8106,e2f4e114545a0d75eab2,euroaiguard_conseil
+705f29548743aa32bd5c,"NTT, Inc.",Japan,Q2 2026,"October 2, 2026",2026-10-02,8106,5c9ce7e2716c16ece88e,ntt
+7132b9b7a724af0baa2d,League Inc.,Canada,Q2 2026,"October 2, 2026",2026-10-02,8106,a6926f075206761309b7,league
+23af318b950aed88eea6,EXCELYA,France,Q2 2026,"October 2, 2026",2026-10-02,8106,7d8acf4761d16273d4dd,excelya
+d7d52fe8fa2843ff21c7,Anthropic PBC,United States,Q2 2026,"October 2, 2026",2026-10-02,8106,028167170db863b12947,anthropic
+3c553914d72f1957b42c,Google,United States,Q2 2026,"October 2, 2026",2026-10-02,8106,94fce1eca2d6e98f5b70,google
+a766683e0636e2bccc7b,ARTEFACT,France,Q2 2026,"October 2, 2026",2026-10-02,8106,d3fee061232e3fc69575,artefact
+177d4475c43452c2659c,"Hitachi, Ltd.",Japan,Q2 2026,"October 2, 2026",2026-10-02,8106,f35e1c5b446376b04bd6,hitachi
+7ffe366e69e123598e6d,MGOIT,Romania,Q2 2026,"October 2, 2026",2026-10-02,8106,9d42b48e82f0ecb0ab6e,mgoit
+a28227a9cc5de31c4571,Jus Mundi,France,Q2 2026,"October 2, 2026",2026-10-02,8106,743ace41e9bd8f07b2fd,jus_mundi
+c25127b2bd77d0de2dbe,Ubie株式会社,Japan,Q2 2026,"October 2, 2026",2026-10-02,8106,281240bf0aa13f39109e,ubie
+00b26cd7065ffe3d94b5,KDDI Corporation,Japan,Q2 2026,"October 2, 2026",2026-10-02,8106,fca5973d63d3d57f7886,kddi
+dccf0fddf36ade046248,Infosys Limited,India,Q4 2025,"December 29, 2025",2025-12-29,8104,4b21469e88a23928fb57,infosys
+d063bc22fcfdff0d5408,"Hitachi, Ltd",Japan,Q4 2025,"November 13, 2025",2025-11-13,8104,4b21469e88a23928fb57,hitachi
+e9245f40159941978749,Amazon,United States,Q4 2025,"October 31, 2025",2025-10-31,8104,4b21469e88a23928fb57,amazon
+7cca63cc352aeceaa3ce,ABEJA.inc,Japan,Q4 2025,"November 18, 2025",2025-11-18,8104,4b21469e88a23928fb57,abeja
+ab3061e0fd260f8a5ec8,TELUS Digital,Canada,Q2 2025,"May 28, 2025",2025-05-28,8102,4b21469e88a23928fb57,telus_digital
+15a2e6327ee55a2690f3,Google,United States,Q2 2025,"April 18, 2025",2025-04-18,8102,4b21469e88a23928fb57,google
+dc8c87fa69567ac16c1c,Anthropic,United States,Q2 2025,"April 15, 2025",2025-04-15,8102,4b21469e88a23928fb57,anthropic
+5ed531860cb71e319a8c,SoftBank Corp.,Japan,Q2 2025,"April 16, 2025",2025-04-16,8102,4b21469e88a23928fb57,softbank_corp
+6b788bad776664aa12b4,Salesforce,United States,Q2 2025,"April 15, 2025",2025-04-15,8102,4b21469e88a23928fb57,salesforce
+07f340a3d8c8829f1d02,OpenAI,United States,Q2 2025,"April 15, 2025",2025-04-15,8102,4b21469e88a23928fb57,openai
+063635f8ee77df38c1d3,KYP.ai GmbH,Germany,Q2 2025,"April 14, 2025",2025-04-14,8102,4b21469e88a23928fb57,kyp_ai_gmbh
+69f622c1b183d9ce0dd1,Microsoft,United States,Q2 2025,"April 15, 2025",2025-04-15,8102,4b21469e88a23928fb57,microsoft
+7f446b8220c259d0f37f,Fujitsu,Japan,Q2 2025,"April 22, 2025",2025-04-22,8102,4b21469e88a23928fb57,fujitsu
+e8b22bc9d505daea2c8f,NEC Corporation,Japan,Q2 2025,"April 14, 2025",2025-04-14,8102,4b21469e88a23928fb57,nec
+ef1ba573f157b1c959ae,"NTT, Inc.",Japan,Q1 2025,"April 11, 2025",2025-04-11,8101,4b21469e88a23928fb57,ntt
+a519faf615da0d0e8a2e,TELUS,Canada,Q2 2025,"April 11, 2025",2025-04-11,8102,4b21469e88a23928fb57,telus
+a926e57cd0ca74716956,Preferred Networks,Japan,Q2 2025,"April 11, 2025",2025-04-11,8102,4b21469e88a23928fb57,preferred_networks
+e4ce3f8f64c77d0be2a1,"Rakuten Group, Inc.",Japan,Q2 2025,"April 22, 2025",2025-04-22,8102,4b21469e88a23928fb57,rakuten
+9085221ef6faef5d5ac8,Milestone,Denmark,Q4 2025,"October 15, 2025",2025-10-15,8104,4b21469e88a23928fb57,milestone_systems
+6e4dc459407a5c1a9e9a,ai21,Israel,Q1 2025,"March 20, 2025",2025-03-20,8101,4b21469e88a23928fb57,ai21
+2a4d881127987be4525d,"West Lake research & education service, a division of Palo Alto Research",United States,Q1 2025,"March 17, 2025",2025-03-17,8101,4b21469e88a23928fb57,palo_alto_research_west_lake
+2bb575f8099631b41c8a,MGOIT,Romania,Q1 2025,"February 15, 2025",2025-02-15,8101,4b21469e88a23928fb57,mgoit
+e33d71630a5e7a62ff6e,KDDI Corporation,Japan,Q2 2025,"April 18, 2025",2025-04-18,8102,4b21469e88a23928fb57,kddi
